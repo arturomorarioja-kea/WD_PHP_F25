@@ -20,6 +20,7 @@ These are some of the most popular distributions:
 - [WampServer](https://www.wampserver.com/en/) (Windows)
 - [AMPPS](https://ampps.com/) (Windows, Mac, and Linux). It includes MongoDB
 - [EasyPHP](https://www.easyphp.org/index.php) (Windows)
+
 I will use XAMPP for Windows, but Mac users normally prefer MAMP. 
 
 *Alternative #1*
