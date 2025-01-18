@@ -1,4 +1,4 @@
-[PHP - Spring 2025]([https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/README.md](https://github.com/arturomorarioja-kea/WD_PHP_F25/edit/main/README.md))
+[PHP - Spring 2025](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/README.md)
 
 # Lesson 1 - 4 February
 
