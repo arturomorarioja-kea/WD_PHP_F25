@@ -57,3 +57,6 @@ I will use [Postman](https://www.postman.com/), but you can also try [Insomnia](
 **And, of course…**
 
 Source code management: [Git](https://git-scm.com/) and an online repository platform. I will use [GitHub](https://github.com/), but feel free to use [GitLab](https://about.gitlab.com/), [BitBucket](https://bitbucket.org/product/) or similar.
+
+## PHP
+[PHP is not bad, so why is it not well-received?](https://dev.to/tomastomas/php-is-not-bad-so-why-is-it-not-well-received-293f)
