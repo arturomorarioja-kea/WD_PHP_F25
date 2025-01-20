@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/a595e910-03ad-43a8-aba4-b5890abc1c8e" align="left" width="200" height="115">
+<img src="https://github.com/user-attachments/assets/a595e910-03ad-43a8-aba4-b5890abc1c8e" align="left" width="250" height="144">
 
 # PHP - Spring 2025
 ## PBA Web Development
