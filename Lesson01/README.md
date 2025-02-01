@@ -95,8 +95,8 @@ Source code management: [Git](https://git-scm.com/) and an online repository pla
 [- Form(https://github.com/arturomorarioja/php_form)]: #
 [- Tax calculator(https://github.com/arturomorarioja/php_tax_calculator)]: #
 [- Temperature converter(https://github.com/arturomorarioja/php_temperature_converter)]: #
-[]: #
-[]: #
-[]: #
-[]: #
-[]: #
+[-]: #
+[-]: #
+[-]: #
+[-]: #
+[-]: #
