@@ -61,34 +61,34 @@ Source code management: [Git](https://git-scm.com/) and an online repository pla
 ## PHP
 [PHP is not bad, so why is it not well-received?](https://dev.to/tomastomas/php-is-not-bad-so-why-is-it-not-well-received-293f)
 
-[Download PHP Syntax.pdf & pptx]: #
+## PHP documentation and resources
+- [Official documentation](https://www.php.net/docs.php)
+- [DevDocs](https://devdocs.io/php/)
+- [PHP Tutorial](https://www.phptutorial.net/)
+- [Learning PHP](https://www.linkedin.com/learning/learning-php-4) (LinkedIn Learning)
+- [Dave Hollingworth](https://www.youtube.com/@dave-hollingworth) (YouTube). Check out his playlists:
+  - [Form methods and redirects in PHP](https://www.youtube.com/watch?v=OwmKRznMaO0&list=PLFbnPuoQkKse76mGLlO0kquZxK0ZDtgur)
+  - [Remembering the login using PHP and cookies](https://www.youtube.com/watch?v=USa2hyN8o08&list=PLFbnPuoQkKsfiXW0DzFkSP_G_yn6FxX2R)
+  - [PHP Sessions](https://www.youtube.com/watch?v=DgeOavl-jWs&list=PLFbnPuoQkKsdZlbASVzsfEFBlwq5yKd0T)
+  - [Usernames and passwords in PHP](https://www.youtube.com/watch?v=AI9HeBPCZPc&list=PLFbnPuoQkKse9tCEnzASUPLqv43xn1oTf)
+  - [SQL Injection in PHP](https://www.youtube.com/watch?v=R6Kgda_Vj6A&list=PLFbnPuoQkKscEaEk6fcfkmMSmIfk5Ad8B)
+  - [.htaccess files](https://www.youtube.com/watch?v=0Vz2cUHBDPA&list=PLFbnPuoQkKscpCXhdjHtOo30P0Zh9xyPw)
+  - [PHP Signup and Login](https://www.youtube.com/watch?v=5L9UhOnuos0&list=PLFbnPuoQkKsecy8YatFtdcQ2epiakgbrd)
+  - [APIs](https://www.youtube.com/watch?v=pXLSYqvmYm0&list=PLFbnPuoQkKsdvZW_zLex4O0tHa_NSKnbI)
+  - [Composer - The Dependency Manager for PHP](https://www.youtube.com/watch?v=E8omrqGJWSw&list=PLFbnPuoQkKsenHCSgJMvEPAebXHVqQIWL)
+  - [PHP namespaces mini-course](https://www.youtube.com/watch?v=lNaWD7kRBC8&list=PLFbnPuoQkKscQ4dD0jLXPReGlL4Iv3lnC)
+  - [Unit testing with PHPUnit](https://www.youtube.com/watch?v=NSkBAuRFtCY&list=PLFbnPuoQkKse0IoTKG8MZmjeu98DULDCe)
+  - [Using Mockery for PHP unit testing](https://www.youtube.com/watch?v=WCSzUyOPhuw&list=PLFbnPuoQkKsdNgBl1Om5B5AgF8GlGIpeL)
+  - [Unit testing static methods in PHP with PHPUnit](https://www.youtube.com/watch?v=Q1AFYPQkOxQ&list=PLFbnPuoQkKscBppO4EGTNI5BsRJOmg2ap)
+  - [PHP refactoring](https://www.youtube.com/watch?v=xQRMHGy4xCM&list=PLFbnPuoQkKsdsWTPje08r76nMbvLLmDZb)
+- [Coder's Page](https://www.youtube.com/@CodersPage) (Santiago Donoso at YouTube). Check out his playlists and videos:
+  - [PHP and MYSQL (CRUD)](https://www.youtube.com/watch?v=PFXdhYojopY&list=PLh7PNLbTepP_PxpoPlQ913nAw_V7S7Mig)
+  - [API application with Svelte, PHP, and MySQL/MariaDB](https://www.youtube.com/watch?v=KwcggzLLclo&list=PLh7PNLbTepP94NqlzNvEQGUlxu8dZXN8U)
+  - [Full Stack with PHP JavaScript and SQLITE](https://www.youtube.com/watch?v=_OgwBBqqdWQ&list=PLh7PNLbTepP8CEXzkbQjOm0HLibI5g2T8)
+  - [PHP Sessions with Frontend and Backend validation](https://www.youtube.com/watch?v=l1APsPMjGQA)
+  - [Tutorial - PHP Restful API with GET and POST](https://www.youtube.com/watch?v=pKgiTYDOsoc)
 
-[## PHP documentation and resources]: #
-[- Official documentation(https://www.php.net/docs.php)]: #
-[- DevDocs(https://devdocs.io/php/)]: #
-[- PHP Tutorial(https://www.phptutorial.net/)]: #
-[- Learning PHP(https://www.linkedin.com/learning/learning-php-4) (LinkedIn Learning)]: #
-[- Dave Hollingworth(https://www.youtube.com/@dave-hollingworth) (YouTube). Check out his playlists:]: #
-[  - Form methods and redirects in PHP(https://www.youtube.com/watch?v=OwmKRznMaO0&list=PLFbnPuoQkKse76mGLlO0kquZxK0ZDtgur)]: #
-[  - Remembering the login using PHP and cookies(https://www.youtube.com/watch?v=USa2hyN8o08&list=PLFbnPuoQkKsfiXW0DzFkSP_G_yn6FxX2R)]: #
-[  - PHP Sessions(https://www.youtube.com/watch?v=DgeOavl-jWs&list=PLFbnPuoQkKsdZlbASVzsfEFBlwq5yKd0T)]: #
-[  - Usernames and passwords in PHP(https://www.youtube.com/watch?v=AI9HeBPCZPc&list=PLFbnPuoQkKse9tCEnzASUPLqv43xn1oTf)]: #
-[  - SQL Injection in PHP(https://www.youtube.com/watch?v=R6Kgda_Vj6A&list=PLFbnPuoQkKscEaEk6fcfkmMSmIfk5Ad8B)]: #
-[  - .htaccess files(https://www.youtube.com/watch?v=0Vz2cUHBDPA&list=PLFbnPuoQkKscpCXhdjHtOo30P0Zh9xyPw)]: #
-[  - PHP Signup and Login(https://www.youtube.com/watch?v=5L9UhOnuos0&list=PLFbnPuoQkKsecy8YatFtdcQ2epiakgbrd)]: #
-[  - APIs(https://www.youtube.com/watch?v=pXLSYqvmYm0&list=PLFbnPuoQkKsdvZW_zLex4O0tHa_NSKnbI)]: #
-[  - Composer - The Dependency Manager for PHP(https://www.youtube.com/watch?v=E8omrqGJWSw&list=PLFbnPuoQkKsenHCSgJMvEPAebXHVqQIWL)]: #
-[  - PHP namespaces mini-course(https://www.youtube.com/watch?v=lNaWD7kRBC8&list=PLFbnPuoQkKscQ4dD0jLXPReGlL4Iv3lnC)]: #
-[  - Unit testing with PHPUnit(https://www.youtube.com/watch?v=NSkBAuRFtCY&list=PLFbnPuoQkKse0IoTKG8MZmjeu98DULDCe)]: #
-[  - Using Mockery for PHP unit testing(https://www.youtube.com/watch?v=WCSzUyOPhuw&list=PLFbnPuoQkKsdNgBl1Om5B5AgF8GlGIpeL)]: #
-[  - Unit testing static methods in PHP with PHPUnit(https://www.youtube.com/watch?v=Q1AFYPQkOxQ&list=PLFbnPuoQkKscBppO4EGTNI5BsRJOmg2ap)]: #
-[  - PHP refactoring(https://www.youtube.com/watch?v=xQRMHGy4xCM&list=PLFbnPuoQkKsdsWTPje08r76nMbvLLmDZb)]: #
-[- Coder's Page(https://www.youtube.com/@CodersPage) (Santiago Donoso at YouTube). Check out his playlists and videos:]: #
-[  - PHP and MYSQL (CRUD)(https://www.youtube.com/watch?v=PFXdhYojopY&list=PLh7PNLbTepP_PxpoPlQ913nAw_V7S7Mig)]:#
-[  - API application with Svelte, PHP, and MySQL/MariaDB(https://www.youtube.com/watch?v=KwcggzLLclo&list=PLh7PNLbTepP94NqlzNvEQGUlxu8dZXN8U)]:#
-[  - Full Stack with PHP JavaScript and SQLITE(https://www.youtube.com/watch?v=_OgwBBqqdWQ&list=PLh7PNLbTepP8CEXzkbQjOm0HLibI5g2T8)]: #
-[  - PHP Sessions with Frontend and Backend validation(https://www.youtube.com/watch?v=l1APsPMjGQA)]: #
-[  - Tutorial - PHP Restful API with GET and POST(https://www.youtube.com/watch?v=pKgiTYDOsoc)]: #
+[Download PHP Syntax.pdf & pptx]: #
 
 [## Homework]: #
 [Check out these code samples:]: #
@@ -97,6 +97,6 @@ Source code management: [Git](https://git-scm.com/) and an online repository pla
 [- Temperature converter(https://github.com/arturomorarioja/php_temperature_converter)]: #
 [Do the following exercises]: #
 [- PHP Exercises(https://www.w3schools.com/php/php_exercises.asp) (w3schools). Basic syntax and language functioning]: #
-[-]: #
+[- PHP Exercises, Practice, Solution(https://www.w3resource.com/php-exercises/) (w3resource). From basic to advanced]: #
 [-]: #
 [-]: #
