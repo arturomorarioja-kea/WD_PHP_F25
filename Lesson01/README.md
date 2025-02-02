@@ -62,6 +62,8 @@ Source code management: [Git](https://git-scm.com/) and an online repository pla
 [PHP is not bad, so why is it not well-received?](https://dev.to/tomastomas/php-is-not-bad-so-why-is-it-not-well-received-293f)
 
 ![image](https://github.com/user-attachments/assets/69798b71-776a-456d-aa1f-c5de76c9c39f)
+![image](https://github.com/user-attachments/assets/cc19ff7c-07aa-4db8-aefd-8ad4682ce9fc)
+![image](https://github.com/user-attachments/assets/9ac5886a-d25f-4008-89c4-2ad16d642761)
 
 ## PHP documentation and resources
 - [Official documentation](https://www.php.net/docs.php)
