@@ -72,6 +72,7 @@ Source code management: [Git](https://git-scm.com/) and an online repository pla
 - [DevDocs](https://devdocs.io/php/)
 - [PHP Tutorial](https://www.phptutorial.net/)
 - [Learning PHP](https://www.linkedin.com/learning/learning-php-4) (LinkedIn Learning)
+- [PHP sandbox](https://onlinephp.io/). Practice PHP online
 - [Dave Hollingworth](https://www.youtube.com/@dave-hollingworth) (YouTube). Check out his playlists:
   - [Form methods and redirects in PHP](https://www.youtube.com/watch?v=OwmKRznMaO0&list=PLFbnPuoQkKse76mGLlO0kquZxK0ZDtgur)
   - [Remembering the login using PHP and cookies](https://www.youtube.com/watch?v=USa2hyN8o08&list=PLFbnPuoQkKsfiXW0DzFkSP_G_yn6FxX2R)
@@ -94,19 +95,15 @@ Source code management: [Git](https://git-scm.com/) and an online repository pla
   - [PHP Sessions with Frontend and Backend validation](https://www.youtube.com/watch?v=l1APsPMjGQA)
   - [Tutorial - PHP Restful API with GET and POST](https://www.youtube.com/watch?v=pKgiTYDOsoc)
 
-[https://onlinephp.io/]: #
-[Teams]: #
-
 ## Homework
 Check out these code samples:
 - [Form](https://github.com/arturomorarioja/php_form)
 - [In-class page and form sample](https://github.com/arturomorarioja/php2025_class_sample)
 
-[- Tax calculator(https://github.com/arturomorarioja/php_tax_calculator)]: #
-[- Temperature converter(https://github.com/arturomorarioja/php_temperature_converter)]: #
 Do the following exercises
 - [PHP Exercises](https://www.w3schools.com/php/php_exercises.asp) (w3schools). Basic syntax and language functioning
 - [PHP Exercises, Practice, Solution](https://www.w3resource.com/php-exercises/) (w3resource). From basic to advanced
-
-[- ]: #
-[- ]: #
+- Tax calculator. Write a tax calculator in PHP without using JavaScript:
+  ![image](https://github.com/user-attachments/assets/d28cd0db-6589-410a-8267-adb1d04af8e6)
+- Temperature converter. Write a temperature converter without using JavaScript:
+  ![image](https://github.com/user-attachments/assets/5fe9fa39-38c2-49a0-a19e-7ff3fac19952)
