@@ -34,7 +34,7 @@
 [**Notice**]: #
 [To make the dropdown trigger the change without a submit button, you need to add a little JavaScript that submits the form where the dropdown is upon its `change` event.]: #
 
-[### //// Create another one where they read info from a file and show it in a table, so they practice files and foreach in HTML]
+[### //// Create another one where they read info from a file and show it in a table, so they practice files and foreach in HTML]: #
 
 [## Homework]: #
 [Check out these code samples:]: #
