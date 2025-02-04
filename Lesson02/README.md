@@ -11,9 +11,9 @@
 [### Language cookies]: #
 [Write a PHP application that changes the language of the text to display via cookies.]: #
 
-![image](https://github.com/user-attachments/assets/8b5ebf44-06fc-49db-b9cb-f4490adef826)
+[!image(https://github.com/user-attachments/assets/8b5ebf44-06fc-49db-b9cb-f4490adef826)]: #
 
-![image](https://github.com/user-attachments/assets/3c4e79a1-d080-41b6-8876-9664bbb032e2)
+[!image(https://github.com/user-attachments/assets/3c4e79a1-d080-41b6-8876-9664bbb032e2)]: #
 
 [Assets:]: #
 [`kea_en.json`:]: #
