@@ -6,7 +6,7 @@
 [- Tax calculator(https://github.com/arturomorarioja/php_tax_calculator)]: #
 [- Temperature converter(https://github.com/arturomorarioja/php_temperature_converter)]: #
 
-[## In-class exercise]: #
+[## In-class exercises]: #
 
 [### Language cookies]: #
 [Write a PHP application that changes the language of the text to display via cookies.]: #
@@ -34,10 +34,14 @@
 [**Notice**]: #
 [To make the dropdown trigger the change without a submit button, you need to add a little JavaScript that submits the form where the dropdown is upon its `change` event.]: #
 
+[### //// Create another one where they read info from a file and show it in a table, so they practice files and foreach in HTML]
+
 [## Homework]: #
 [Check out these code samples:]: #
-[  - Cookie management(https://github.com/arturomorarioja/php_cookies)]: #
+[  - File management(https://github.com/arturomorarioja/php_file_management)]: #
 [  - KEA IT degrees(https://github.com/arturomorarioja/kea-it-degrees). It reads the information to display from a JSON file]: #
+[  - Cookie management(https://github.com/arturomorarioja/php_cookies)]: #
+[  - Error management(https://github.com/arturomorarioja/php_error_management)]: #
 
 [Do the following exercise:]: #
 [- Restaurant KEA. Add PHP to the code of the Restaurant KEA sample(https://github.com/arturomorarioja/kea_css_restaurant_solution) so that:]: #
