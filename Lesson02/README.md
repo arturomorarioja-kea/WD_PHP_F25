@@ -34,7 +34,12 @@
 [**Notice**]: #
 [To make the dropdown trigger the change without a submit button, you need to add a little JavaScript that submits the form where the dropdown is upon its `change` event.]: #
 
-[### //// Create another one where they read info from a file and show it in a table, so they practice files and foreach in HTML]: #
+[### Danske museer]: #
+[Write a PHP application that reads information about Danish museums from the file `museums.json` and displays it in a table:]: #
+
+[!image(https://github.com/user-attachments/assets/704f5835-9914-473e-9948-c8b7cd369cc8)]: #
+
+[Proposed solution(https://github.com/arturomorarioja/php_danske_museer)]: #
 
 [## Homework]: #
 [Check out these code samples:]: #
