@@ -4,7 +4,14 @@
 
 [## Exercise solutions]: #
 [- Tax calculator(https://github.com/arturomorarioja/php_tax_calculator)]: #
-[- Temperature converter(https://github.com/arturomorarioja/php_temperature_converter)]: #
+[- Temperature converter(https://github.com/arturomorarioja/php_temperature_converter) --> Move the calculation to a function in src/]: #
+
+[--> 1 Error management. Slides. Code sample]: #
+[--> 2 File management. Slides. Code sample. In-class exercise]: #
+[--> 3 Cookies. Slides. Code sample. In-class exercise]: #
+[--> 4 PDO. Live sample]: #
+
+[--> ROLLCALL]: #
 
 [## In-class exercises]: #
 
@@ -29,10 +36,10 @@
 
 [## Homework]: #
 [Check out these code samples:]: #
+[  - Error management(https://github.com/arturomorarioja/php_error_management)]: #
 [  - File management(https://github.com/arturomorarioja/php_file_management)]: #
 [  - KEA IT degrees(https://github.com/arturomorarioja/kea-it-degrees). It reads the information to display from a JSON file]: #
 [  - Cookie management(https://github.com/arturomorarioja/php_cookies)]: #
-[  - Error management(https://github.com/arturomorarioja/php_error_management)]: #
 
 [Do the following exercise:]: #
 [- Restaurant KEA. Add PHP to the code of the Restaurant KEA sample(https://github.com/arturomorarioja/kea_css_restaurant_solution) so that:]: #
