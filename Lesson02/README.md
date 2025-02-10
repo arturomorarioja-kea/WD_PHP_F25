@@ -52,3 +52,4 @@
 [  - Each text to be logged will preceded by the date and time in the following format: "--- yyyy-MM-dd hh:mm:ss xM ---"]: #
 [--> Fix the missing brackets in the sample below]: #
 [  - E.g., if the user runs `logText('Message 1', 'Hello there', 'Further messages', 'One message', 'Another message', 'A further message');`, the information in log20250210.htm will be logged]: #
+[  - PHP functions and magic variables you may want to research for this exercise: `__DIR__`, `is_dir()`, `mkdir()`, `file_exists()`, `date()`, `time()`, `gettype()`]: #
