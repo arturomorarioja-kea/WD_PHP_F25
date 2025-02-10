@@ -6,9 +6,9 @@
 [- Tax calculator(https://github.com/arturomorarioja/php_tax_calculator)]: #
 [- Temperature converter(https://github.com/arturomorarioja/php_temperature_converter) --> Move the calculation to a function in src/ and show require_once]: #
 
-[--> 1 Error management. Slides. Code sample]: #
-[--> 2 File management. Slides. Code sample. In-class exercise]: #
-[--> 3 Cookies. Slides. Code sample. In-class exercise]: #
+[--> 1 Error management. Slides (skip 9 and 10). Code sample]: #
+[--> 2 File management. Slides. Code sample. Demo magic constants. Show kea-it-degrees. In-class exercise (museums)]: #
+[--> DEFER FOR NEXT WEEK 3 Cookies. Slides. Code sample. In-class exercise]: #
 [--> 4 PDO. Live sample]: #
 
 [--> ROLLCALL]: #
