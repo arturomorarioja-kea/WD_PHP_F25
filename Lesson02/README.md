@@ -22,13 +22,13 @@
 
 [!image(https://github.com/user-attachments/assets/3c4e79a1-d080-41b6-8876-9664bbb032e2)]: #
 
-[Find the texts in both languages in the files `kea_en.json` and `kea_da.json`.]: #
+[Find the texts in both languages in the files `kea_en.json`(https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson02/kea_en.json) and `kea_da.json`(https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson02/kea_da.json).]: #
 
 [**Notice**]: #
 [To make the dropdown trigger the change without a submit button, you need to add a little JavaScript that submits the form where the dropdown is upon its `change` event.]: #
 
 [### Danske museer]: #
-[Write a PHP application that reads information about Danish museums from the file `museums.json` and displays it in a table:]: #
+[Write a PHP application that reads information about Danish museums from the file `museums.json`(https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson02/museums.json) and displays it in a table:]: #
 
 [!image(https://github.com/user-attachments/assets/704f5835-9914-473e-9948-c8b7cd369cc8)]: #
 
@@ -51,5 +51,5 @@
 [  - The logging function will receive as parameters one or several strings or arrays of strings to log. Check out variadic functions in PHP(https://www.php.net/manual/en/functions.arguments.php#functions.variable-arg-list)]: #
 [  - Each text to be logged will preceded by the date and time in the following format: "--- yyyy-MM-dd hh:mm:ss xM ---"]: #
 [--> Fix the missing brackets in the sample below]: #
-[  - E.g., if the user runs `logText('Message 1', 'Hello there', 'Further messages', 'One message', 'Another message', 'A further message');`, the information in log20250210.htm will be logged]: #
+[  - E.g., if the user runs `logText('Message 1', 'Hello there', 'Further messages', 'One message', 'Another message', 'A further message');`, the information in `log20250210.htm`(https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson02/log20250210.htm) will be logged]: #
 [  - PHP functions and magic variables you may want to research for this exercise: `__DIR__`, `is_dir()`, `mkdir()`, `file_exists()`, `date()`, `time()`, `gettype()`]: #
