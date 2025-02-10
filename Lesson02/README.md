@@ -4,7 +4,7 @@
 
 [## Exercise solutions]: #
 [- Tax calculator(https://github.com/arturomorarioja/php_tax_calculator)]: #
-[- Temperature converter(https://github.com/arturomorarioja/php_temperature_converter) --> Move the calculation to a function in src/]: #
+[- Temperature converter(https://github.com/arturomorarioja/php_temperature_converter) --> Move the calculation to a function in src/ and show require_once]: #
 
 [--> 1 Error management. Slides. Code sample]: #
 [--> 2 File management. Slides. Code sample. In-class exercise]: #
@@ -41,10 +41,13 @@
 [  - KEA IT degrees(https://github.com/arturomorarioja/kea-it-degrees). It reads the information to display from a JSON file]: #
 [  - Cookie management(https://github.com/arturomorarioja/php_cookies)]: #
 
-[Do the following exercise:]: #
+[Do the following exercises:]: #
 [- Restaurant KEA. Add PHP to the code of the Restaurant KEA sample(https://github.com/arturomorarioja/kea_css_restaurant_solution) so that:]: #
 [  - There is no redundant HTML code]: #
 [  - When the user fills out and sends the contact form, the information is stored in a text file]: #
-
-[- ]: #
-[- ]: #
+[- Logger. Create a logger function `logFile()` that logs information to an HTML file with the following requirements]: #
+[  - The log file will be in a directory called "log" in the root directory of the application]: #
+[  - The name of the log file will be "log" plus the present date in yyyyMMdd format with extension ".htm" (e.g., "log_20250211.htm"). That is, there will be one log file per day to which every piece of information to log will be appended]: #
+[  - The logging function will receive as parameters one or several strings or arrays of strings to log. Check out variadic functions in PHP(https://www.php.net/manual/en/functions.arguments.php#functions.variable-arg-list)]: #
+[  - Each text to be logged will preceded by the date and time in the following format: "--- yyyy-MM-dd hh:mm:ss xM ---"]: #
+[  - E.g., if the user runs `logText('Message 1', 'Hello there', 'Further messages', ['One message', 'Another message', 'A further message']);`, the information in log20250210.htm will be logged]: #
