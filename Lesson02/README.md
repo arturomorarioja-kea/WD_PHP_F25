@@ -9,7 +9,7 @@
 [--> 1 Error management. Slides (skip 9 and 10). Code sample]: #
 [--> 2 File management. Slides. Code sample. Demo magic constants. Show kea-it-degrees. In-class exercise (museums)]: #
 [--> DEFER FOR NEXT WEEK 3 Cookies. Slides. Code sample. In-class exercise]: #
-[--> 4 PDO. Live sample]: #
+[--> 4 PDO. Live sample. Import (https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/)]: #
 
 [--> ROLLCALL]: #
 
