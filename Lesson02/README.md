@@ -15,7 +15,7 @@
 ### Danske museer
 Write a PHP application that reads information about Danish museums from the file [`museums.json`](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson02/museums.json) and displays it in a table:
 
-!image(https://github.com/user-attachments/assets/704f5835-9914-473e-9948-c8b7cd369cc8)
+![image](https://github.com/user-attachments/assets/704f5835-9914-473e-9948-c8b7cd369cc8)
 
 [Proposed solution(https://github.com/arturomorarioja/php_danske_museer)]: #
 
