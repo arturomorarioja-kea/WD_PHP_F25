@@ -16,7 +16,7 @@ Write a PHP application that reads information about Danish museums from the fil
 
 ![image](https://github.com/user-attachments/assets/704f5835-9914-473e-9948-c8b7cd369cc8)
 
-[Proposed solution(https://github.com/arturomorarioja/php_danske_museer)]: #
+[Proposed solution](https://github.com/arturomorarioja/php_danske_museer)
 
 ## Homework
 Check out these code samples:
