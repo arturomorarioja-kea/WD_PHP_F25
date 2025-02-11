@@ -5,4 +5,5 @@
 
 
 - [Lesson 1](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson01/README.md) (4 February): Introduction to PHP. Strings. Form processing. $_GET and $_POST
-- [Lesson 2](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson02/README.md) (11 February)
+- [Lesson 2](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson02/README.md) (11 February): Error and exception management. File management. PDO
+- [Lesson 3](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson03/README.md) (18 February)
