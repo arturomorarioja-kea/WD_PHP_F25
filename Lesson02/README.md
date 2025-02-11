@@ -7,8 +7,7 @@
 - [Temperature converter](https://github.com/arturomorarioja/php_temperature_converter)
 - [Temperature converter v2](https://github.com/arturomorarioja/php_temperature_converter_v2) (business logic in a separate PHP file)
 
-[--> 2 File management. Slides. Code sample. Demo magic constants. Show kea-it-degrees. In-class exercise (museums)]: #
-[--> 3 PDO. Live sample. Import (https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/)]: #
+[--> 3 PDO. Live sample]: #
 
 ## In-class exercise
 
@@ -22,8 +21,8 @@ Write a PHP application that reads information about Danish museums from the fil
 ## Homework
 Check out these code samples:
   - [Error management](https://github.com/arturomorarioja/php_error_management)
-    
-[  - File management(https://github.com/arturomorarioja/php_file_management)]: #
+  - [File management](https://github.com/arturomorarioja/php_file_management)
+
 [  - KEA IT degrees(https://github.com/arturomorarioja/kea-it-degrees). It reads the information to display from a JSON file]: #
 
 [Do the following exercises:]: #
