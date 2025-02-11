@@ -2,16 +2,13 @@
 
 # Lesson 2 - 11 February
 
-[## Exercise solutions]: #
-[- Tax calculator(https://github.com/arturomorarioja/php_tax_calculator)]: #
-[- Temperature converter(https://github.com/arturomorarioja/php_temperature_converter) --> Move the calculation to a function in src/ and show require_once]: #
+## Exercise solutions
+- [Tax calculator](https://github.com/arturomorarioja/php_tax_calculator)
+- [Temperature converter](https://github.com/arturomorarioja/php_temperature_converter)
 
-[--> 1 Error management. Slides (skip 9 and 10). Code sample]: #
 [--> 2 File management. Slides. Code sample. Demo magic constants. Show kea-it-degrees. In-class exercise (museums)]: #
 [--> DEFER FOR NEXT WEEK 3 Cookies. Slides. Code sample. In-class exercise]: #
 [--> 4 PDO. Live sample. Import (https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/)]: #
-
-[--> ROLLCALL]: #
 
 [## In-class exercises]: #
 
@@ -34,9 +31,9 @@
 
 [Proposed solution(https://github.com/arturomorarioja/php_danske_museer)]: #
 
-[## Homework]: #
-[Check out these code samples:]: #
-[  - Error management(https://github.com/arturomorarioja/php_error_management)]: #
+## Homework
+Check out these code samples:
+  - [Error management](https://github.com/arturomorarioja/php_error_management)
 [  - File management(https://github.com/arturomorarioja/php_file_management)]: #
 [  - KEA IT degrees(https://github.com/arturomorarioja/kea-it-degrees). It reads the information to display from a JSON file]: #
 [  - Cookie management(https://github.com/arturomorarioja/php_cookies)]: #
