@@ -7,8 +7,6 @@
 - [Temperature converter](https://github.com/arturomorarioja/php_temperature_converter)
 - [Temperature converter v2](https://github.com/arturomorarioja/php_temperature_converter_v2) (business logic in a separate PHP file)
 
-[--> 3 PDO. Live sample]: #
-
 ## In-class exercise
 
 ### Danske museer
@@ -28,14 +26,11 @@ Check out these code samples:
   - [Error management](https://github.com/arturomorarioja/php_error_management)
   - [File management](https://github.com/arturomorarioja/php_file_management)
 
-[  - KEA IT degrees(https://github.com/arturomorarioja/kea-it-degrees). It reads the information to display from a JSON file]: #
-
 Do the following exercises:
 - Restaurant KEA. Add PHP to the code of the [Restaurant KEA sample](https://github.com/arturomorarioja/kea_css_restaurant_solution) so that:
   - There is no redundant HTML code
   - When the user fills out and sends the contact form, the information is stored in a text file
 
-[  - Proposed solution(https://github.com/arturomorarioja/php_restaurant)]: #
 - Logger. Create a logger function `logFile()` that logs information to an HTML file with the following requirements
   - The log file will be in a directory called "log" in the root directory of the application]
   - The name of the log file will be "log" plus the present date in yyyyMMdd format with extension ".htm" (e.g., "log_20250211.htm"). That is, there will be one log file per day to which every piece of information to log will be appended]
@@ -44,10 +39,9 @@ Do the following exercises:
   - E.g., if the user runs `logText('Message 1', 'Hello there', 'Further messages', ['One message', 'Another message', 'A further message']);`, the information in [`log20250210.htm`](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson02/log20250210.htm) will be logged
   - PHP functions and magic variables you may want to research for this exercise: `__DIR__`, `is_dir()`, `mkdir()`, `file_exists()`, `date()`, `time()`, `gettype()`
 
-[  - Proposed solution(https://github.com/arturomorarioja/php_logger)]: #
 - PDO. Open the [PDO sample code repo](https://github.com/arturomorarioja/php_pdo).
   - Make MySQL work on your computer
-  - Import [`company.sql`](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson02/company.sql)]
+  - Import [`company.sql`](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson02/company.sql)
   - Implement `try..catch` blocks in both functions
   - Try to execute more queries, maybe implement a search function or insert a row. Follow the slides on PDO for that
   - Practice, practice and practice
