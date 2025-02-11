@@ -5,6 +5,7 @@
 ## Exercise solutions
 - [Tax calculator](https://github.com/arturomorarioja/php_tax_calculator)
 - [Temperature converter](https://github.com/arturomorarioja/php_temperature_converter)
+- [Temperature converter v2](https://github.com/arturomorarioja/php_temperature_converter_v2) (business logic in a separate PHP file)
 
 [--> 2 File management. Slides. Code sample. Demo magic constants. Show kea-it-degrees. In-class exercise (museums)]: #
 [--> DEFER FOR NEXT WEEK 3 Cookies. Slides. Code sample. In-class exercise]: #
