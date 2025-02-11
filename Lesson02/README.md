@@ -8,22 +8,9 @@
 - [Temperature converter v2](https://github.com/arturomorarioja/php_temperature_converter_v2) (business logic in a separate PHP file)
 
 [--> 2 File management. Slides. Code sample. Demo magic constants. Show kea-it-degrees. In-class exercise (museums)]: #
-[--> DEFER FOR NEXT WEEK 3 Cookies. Slides. Code sample. In-class exercise]: #
-[--> 4 PDO. Live sample. Import (https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/)]: #
+[--> 3 PDO. Live sample. Import (https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/)]: #
 
-[## In-class exercises]: #
-
-[### Language cookies]: #
-[Write a PHP application that changes the language of the text to display via cookies:]: #
-
-[!image(https://github.com/user-attachments/assets/8b5ebf44-06fc-49db-b9cb-f4490adef826)]: #
-
-[!image(https://github.com/user-attachments/assets/3c4e79a1-d080-41b6-8876-9664bbb032e2)]: #
-
-[Find the texts in both languages in the files `kea_en.json`(https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson02/kea_en.json) and `kea_da.json`(https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson02/kea_da.json).]: #
-
-[**Notice**]: #
-[To make the dropdown trigger the change without a submit button, you need to add a little JavaScript that submits the form where the dropdown is upon its `change` event.]: #
+[## In-class exercise]: #
 
 [### Danske museer]: #
 [Write a PHP application that reads information about Danish museums from the file `museums.json`(https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson02/museums.json) and displays it in a table:]: #
@@ -38,7 +25,6 @@ Check out these code samples:
     
 [  - File management(https://github.com/arturomorarioja/php_file_management)]: #
 [  - KEA IT degrees(https://github.com/arturomorarioja/kea-it-degrees). It reads the information to display from a JSON file]: #
-[  - Cookie management(https://github.com/arturomorarioja/php_cookies)]: #
 
 [Do the following exercises:]: #
 [- Restaurant KEA. Add PHP to the code of the Restaurant KEA sample(https://github.com/arturomorarioja/kea_css_restaurant_solution) so that:]: #
