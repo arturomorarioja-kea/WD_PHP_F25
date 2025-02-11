@@ -19,6 +19,11 @@ Write a PHP application that reads information about Danish museums from the fil
 [Proposed solution](https://github.com/arturomorarioja/php_danske_museer)
 
 ## Homework
+Check out the following slides on Itslearning:
+- **PHP Error Management**
+- **PHP Syntax**, slides 26 and 27 (file management)
+- **PDO**
+
 Check out these code samples:
   - [Error management](https://github.com/arturomorarioja/php_error_management)
   - [File management](https://github.com/arturomorarioja/php_file_management)
@@ -45,3 +50,4 @@ Do the following exercises:
   - Import [`company.sql`](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson02/company.sql)]
   - Implement `try..catch` blocks in both functions
   - Try to execute more queries, maybe implement a search function or insert a row. Follow the slides on PDO for that
+  - Practice, practice and practice
