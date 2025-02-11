@@ -34,6 +34,7 @@
 ## Homework
 Check out these code samples:
   - [Error management](https://github.com/arturomorarioja/php_error_management)
+    
 [  - File management(https://github.com/arturomorarioja/php_file_management)]: #
 [  - KEA IT degrees(https://github.com/arturomorarioja/kea-it-degrees). It reads the information to display from a JSON file]: #
 [  - Cookie management(https://github.com/arturomorarioja/php_cookies)]: #
