@@ -37,5 +37,6 @@ Do the following exercises:
   - The logging function will receive as parameters one or several strings or arrays of strings to log. Check out [variadic functions in PHP](https://www.php.net/manual/en/functions.arguments.php#functions.variable-arg-list)
   - Each text to be logged will preceded by the date and time in the following format: "--- yyyy-MM-dd hh:mm:ss xM ---"
   - E.g., if the user runs `logText('Message 1', 'Hello there', 'Further messages', ['One message', 'Another message', 'A further message']);`, the information in [`log20250210.htm`](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson02/log20250210.htm) will be logged]: #
-[  - PHP functions and magic variables you may want to research for this exercise: `__DIR__`, `is_dir()`, `mkdir()`, `file_exists()`, `date()`, `time()`, `gettype()`]: #
+  - PHP functions and magic variables you may want to research for this exercise: `__DIR__`, `is_dir()`, `mkdir()`, `file_exists()`, `date()`, `time()`, `gettype()`
+
 [  - Proposed solution(https://github.com/arturomorarioja/php_logger)]: #
