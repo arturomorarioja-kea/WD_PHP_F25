@@ -2,6 +2,10 @@
 
 # Lesson 3 - 18 February
 
+[## Exercise solutions]: #
+[  - Restaurant(https://github.com/arturomorarioja/php_restaurant)]: #
+[  - Logger(https://github.com/arturomorarioja/php_logger)]: #
+
 [--> 1 Cookies. Slides. Code sample. In-class exercise]: #
 
 [## In-class exercise]: #
@@ -20,4 +24,5 @@
 
 [## Homework]: #
 [Check out these code samples:]: #
+[  - KEA IT degrees(https://github.com/arturomorarioja/kea-it-degrees). It reads the information to display from a JSON file]: #
 [  - Cookie management(https://github.com/arturomorarioja/php_cookies)]: #
