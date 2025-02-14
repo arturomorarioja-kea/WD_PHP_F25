@@ -26,3 +26,4 @@
 [Check out these code samples:]: #
 [  - KEA IT degrees(https://github.com/arturomorarioja/kea-it-degrees). It reads the information to display from a JSON file]: #
 [  - Cookie management(https://github.com/arturomorarioja/php_cookies)]: #
+[  - OOP in PHP(https://github.com/arturomorarioja/php_oop)]: #
