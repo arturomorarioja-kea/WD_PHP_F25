@@ -7,6 +7,7 @@
 [  - Logger(https://github.com/arturomorarioja/php_logger)]: #
 
 [--> 1 Cookies. Slides. Code sample. In-class exercise]: #
+[--> Continue the PHP PDO demo so that it goes towards https://github.com/arturomorarioja/php_company_employees. Maybe implement search and insert, and give them update and delete as homework]: #
 
 [## In-class exercise]: #
 
