@@ -6,8 +6,8 @@
 [--> git pull https://github.com/arturomorarioja/php_logger.git]: #
 
 [## Exercise solutions]: #
-[  - Restaurant(https://github.com/arturomorarioja/php_restaurant)]: #
-[  - Logger(https://github.com/arturomorarioja/php_logger)]: #
+[  - Restaurant(https://github.com/arturomorarioja/php_restaurant). Notice folder structure leading to separation of concerns]: #
+[  - Logger(https://github.com/arturomorarioja/php_logger). Notice the use of variadic parameters]: #
 
 [--> 1 Cookies. Slides. Code sample. In-class exercise]: #
 [--> Continue the PHP PDO demo so that it goes towards https://github.com/arturomorarioja/php_company_employees. Maybe implement search and insert, and give them update and delete as homework]: #
