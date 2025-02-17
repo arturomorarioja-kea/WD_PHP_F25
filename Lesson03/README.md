@@ -28,6 +28,8 @@
 [To make the dropdown trigger the change without a submit button, you need to add a little JavaScript that submits the form where the dropdown is upon its `change` event.]: #
 
 [## Homework]: #
+[Check out these slide decks:]: #
+[  - OOP - Language Comparison]: #
 [Check out these code samples:]: #
 [  - KEA IT degrees(https://github.com/arturomorarioja/kea-it-degrees). It reads the information to display from a JSON file]: #
 [  - Cookie management(https://github.com/arturomorarioja/php_cookies)]: #
