@@ -4,6 +4,7 @@
 
 [--> git pull https://github.com/arturomorarioja/php_restaurant.git]: #
 [--> git pull https://github.com/arturomorarioja/php_logger.git]: #
+[--> download OOP.pdf and pptxt]: #
 
 [## Exercise solutions]: #
 [  - Restaurant(https://github.com/arturomorarioja/php_restaurant). Notice folder structure leading to separation of concerns]: #
