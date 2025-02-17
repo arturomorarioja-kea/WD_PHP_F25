@@ -29,6 +29,7 @@
 
 [## Homework]: #
 [Check out these slide decks:]: #
+[  - Object-oriented Programming]: #
 [  - OOP - Language Comparison]: #
 [Check out these code samples:]: #
 [  - KEA IT degrees(https://github.com/arturomorarioja/kea-it-degrees). It reads the information to display from a JSON file]: #
