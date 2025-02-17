@@ -2,6 +2,8 @@
 
 # Lesson 3 - 18 February
 
+[--> git pull https://github.com/arturomorarioja/php_restaurant.git]: #
+
 [## Exercise solutions]: #
 [  - Restaurant(https://github.com/arturomorarioja/php_restaurant)]: #
 [  - Logger(https://github.com/arturomorarioja/php_logger)]: #
