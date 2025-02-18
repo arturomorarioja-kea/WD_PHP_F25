@@ -17,10 +17,10 @@ The [Company repo](https://github.com/arturomorarioja/php_pdo) allows the user t
   - PDO: Positional vs. named parameters in PDO (**PDO** slide deck)
   - [htmlspecialchars()](https://www.php.net/manual/en/function.htmlspecialchars.php)
   - [filter_var](https://www.php.net/manual/en/function.filter-var.php)
-- Continue working on the [Company repo](https://github.com/arturomorarioja/php_pdo). Implement:
+- Continue working on the [Company repo](https://github.com/arturomorarioja/php_pdo):
   - Complete the validation function. Employees should be at least 16 years old. Find out how to validate a date in PHP
-  - Edit employee
-  - Delete employee
+  - Implement edit employee (create an `edit.php` page)
+  - Implement delete employee (create a `delete.php` page that shows the details of the employee and asks for confirmation)
 - Create a site that reads information about KEA's IT degrees from [`info.json`](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson03/info.json) and displays them (do not worry about the styling):
 
 ![image](https://github.com/user-attachments/assets/3fbc6631-642d-43f8-84e0-93a004ebf133)
