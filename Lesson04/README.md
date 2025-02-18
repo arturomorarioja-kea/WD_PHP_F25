@@ -23,4 +23,5 @@
 [  - Object-oriented Programming]: #
 [  - OOP - Language Comparison]: #
 [Check out these code samples:]: #
+[  - Cookie management(https://github.com/arturomorarioja/php_cookies)]: #
 [  - OOP in PHP(https://github.com/arturomorarioja/php_oop)]: #
