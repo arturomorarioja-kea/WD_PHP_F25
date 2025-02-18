@@ -14,7 +14,7 @@ The [Company repo](https://github.com/arturomorarioja/php_pdo) allows the user t
 ## Homework
 [Magic constants. positional vs named parameters in PDO. htmlspecialchars. filter_var]: #
 - Continue work on the [Company repo](https://github.com/arturomorarioja/php_pdo). Implement edit employee and delete employee
-- Create a site that reads information about KEA's IT degrees from `info.json` and displays them (do not worry about the styling):
+- Create a site that reads information about KEA's IT degrees from [`info.json`](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson03/info.json) and displays them (do not worry about the styling):
 
 ![image](https://github.com/user-attachments/assets/3fbc6631-642d-43f8-84e0-93a004ebf133)
 
