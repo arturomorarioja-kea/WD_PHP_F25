@@ -12,6 +12,7 @@
 The [Company repo](https://github.com/arturomorarioja/php_pdo) allows the user to see the full list of employees, search employees and view employee data. Add the insert employee functionality.
 
 ## Homework
+[Magic constants. positional vs named parameters in PDO. htmlspecialchars. filter_var]: #
 - Continue work on the [Company repo](https://github.com/arturomorarioja/php_pdo). Implement edit employee and delete employee
 - Create a site that reads information about KEA's IT degrees from `info.json` and displays them (do not worry about the styling):
 
