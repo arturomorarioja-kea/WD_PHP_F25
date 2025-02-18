@@ -11,11 +11,11 @@
 ### Insert employee
 The [Company repo](https://github.com/arturomorarioja/php_pdo) allows the user to see the full list of employees, search employees and view employee data. Add the insert employee functionality.
 
-[## Homework]: #
-[- Continue work on the Company repo(https://github.com/arturomorarioja/php_pdo). Implement edit employee and delete employee]: #
-[- Create a site that reads information about KEA's IT degrees from `info.json` and displays them (do not worry about the styling):]: #
+## Homework
+- Continue work on the [Company repo](https://github.com/arturomorarioja/php_pdo). Implement edit employee and delete employee
+- Create a site that reads information about KEA's IT degrees from `info.json` and displays them (do not worry about the styling):
 
-[!image(https://github.com/user-attachments/assets/3fbc6631-642d-43f8-84e0-93a004ebf133)]: #
+![image](https://github.com/user-attachments/assets/3fbc6631-642d-43f8-84e0-93a004ebf133)
 
-[!image(https://github.com/user-attachments/assets/01b819bc-440c-455d-91b5-ffdbd0ca93ce)]: #
+![image](https://github.com/user-attachments/assets/01b819bc-440c-455d-91b5-ffdbd0ca93ce)
 
