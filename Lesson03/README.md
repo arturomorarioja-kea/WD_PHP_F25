@@ -2,13 +2,9 @@
 
 # Lesson 3 - 18 February
 
-[--> git pull https://github.com/arturomorarioja/php_restaurant.git]: #
-[--> git pull https://github.com/arturomorarioja/php_logger.git]: #
-[--> download OOP.pdf and pptxt]: #
-
-[## Exercise solutions]: #
-[  - Restaurant(https://github.com/arturomorarioja/php_restaurant). Notice folder structure leading to separation of concerns]: #
-[  - Logger(https://github.com/arturomorarioja/php_logger). Notice the use of variadic parameters]: #
+## Exercise solutions
+  - [Restaurant](https://github.com/arturomorarioja/php_restaurant). Notice folder structure leading to separation of concerns
+  - [Logger](https://github.com/arturomorarioja/php_logger). Notice the use of variadic parameters
 
 [--> 1 Cookies. Slides. Code sample. In-class exercise]: #
 [--> Continue the PHP PDO demo so that it goes towards https://github.com/arturomorarioja/php_company_employees. Maybe implement search and insert, and give them update and delete as homework]: #
