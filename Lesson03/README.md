@@ -9,7 +9,10 @@
 [--> 1 Cookies. Slides. Code sample. In-class exercise]: #
 [--> Continue the PHP PDO demo so that it goes towards https://github.com/arturomorarioja/php_company_employees. Maybe implement search and insert, and give them update and delete as homework]: #
 
-[## In-class exercise]: #
+## In-class exercise
+
+### Insert employee
+The [Company repo](https://github.com/arturomorarioja/php_pdo) allows the user to see the full list of employees, search employees and view employee data. Add the insert employee functionality.
 
 [### Language cookies]: #
 [Write a PHP application that changes the language of the text to display via cookies:]: #
