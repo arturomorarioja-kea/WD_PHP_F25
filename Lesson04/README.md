@@ -2,9 +2,13 @@
 
 # Lesson 4 - 25 February
 
+[--> git clone https://github.com/arturomorarioja/php_oop_example.git]: #
 [--> 1 Cookies. Slides. Code sample. In-class exercise]: #
 
 [## In-class exercise]: #
+
+[### Object-Oriented Programming]: #
+
 
 [### Language cookies]: #
 [Write a PHP application that changes the language of the text to display via cookies:]: #
