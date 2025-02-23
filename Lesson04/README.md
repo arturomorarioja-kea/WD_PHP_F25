@@ -2,12 +2,29 @@
 
 # Lesson 4 - 25 February
 
-[--> git clone https://github.com/arturomorarioja/php_oop_example.git]: #
+[--> git clone https://github.com/arturomorarioja/php_oop_example.git --> demo]: #
 [--> 1 Cookies. Slides. Code sample. In-class exercise]: #
 
 [## In-class exercise]: #
 
 [### Object-Oriented Programming]: #
+[Write a basic library management system in object-oriented PHP. The system will keep track of different types of items in the library, such as books, magazines, and DVDs.]: #
+
+[Class diagram:]: #
+
+[!library_management_system(https://github.com/user-attachments/assets/35927aeb-8963-4571-b81d-35ebe22300a5)]: #
+
+[Notice that public scope is indicated by a plus sign ("+"), private scope by a minus sign ("-"), and protected scope by a pad ("#").]: #
+
+[Take into account the following:]: #
+[- ]: #
+[- ]: #
+[- ]: #
+[- ]: #
+[- ]: #
+[- ]: #
+[- ]: #
+[- ]: #
 
 
 [### Language cookies]: #
