@@ -47,8 +47,11 @@
 
 [## Homework]: #
 [Check out these slide decks:]: #
-[  - Object-oriented Programming]: #
-[  - OOP - Language Comparison]: #
+[- Object-oriented Programming]: #
+[- OOP - Language Comparison]: #
 [Check out these code samples:]: #
-[  - Cookie management(https://github.com/arturomorarioja/php_cookies)]: #
-[  - OOP in PHP(https://github.com/arturomorarioja/php_oop)]: #
+[- Cookie management(https://github.com/arturomorarioja/php_cookies)]: #
+[- OOP in PHP(https://github.com/arturomorarioja/php_oop)]: #
+[Expand the library management system:]: #
+[- Add a borrow() method to mark an item as borrowed or available]: #
+[- Implement a `Library` class that stores a collection of books, magazines, and DVDs and allows adding and listing items.]: #
