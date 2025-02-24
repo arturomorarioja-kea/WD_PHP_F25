@@ -33,6 +33,8 @@
 [  - The constructor and the setter must ensure that `duration` is greater than 0]: #
 [  - `getDetails()` must return `DVD: <Title> by <Author> (<Year>) - Duration: <Minutes> minutes, <Format>"]: #
 
+[Proposed solution(https://github.com/arturomorarioja/php_oop_library)]: #
+
 [## Homework]: #
 [Check out these slide decks:]: #
 [- Object-oriented Programming]: #
