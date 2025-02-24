@@ -55,4 +55,4 @@
 [Expand the library management system:]: #
 [- Add a `borrow()` and a `returnItem()` method to mark an item as borrowed or available]: #
 [- Implement a `Library` class that stores a collection of books, magazines, and DVDs and allows adding items and returning a list of items.]: #
-[- Example of usage and output: index.php(), output.htm()]: #
+[- Example of usage and output: index.php(https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson04/index.php), output.htm(https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson04/output.htm)]: #
