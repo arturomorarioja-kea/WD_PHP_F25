@@ -41,6 +41,7 @@
 [- OOP - Language Comparison]: #
 [Check out these code samples:]: #
 [- OOP in PHP(https://github.com/arturomorarioja/php_oop)]: #
+[- OOP in PHP Example(https://github.com/arturomorarioja/php_oop_example)]: #
 [Expand the library management system:]: #
 [- Add a `borrow()` and a `returnItem()` method to mark an item as borrowed or available]: #
 [- Implement a `Library` class that stores a collection of books, magazines, and DVDs and allows adding items and returning a list of items.]: #
