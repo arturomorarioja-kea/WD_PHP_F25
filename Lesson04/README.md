@@ -2,6 +2,9 @@
 
 # Lesson 4 - 25 February
 
+## Exercise solutions
+- [KEA IT degrees](https://github.com/arturomorarioja/kea-it-degrees)
+
 ## In-class exercise
 
 ### Object-Oriented Programming
