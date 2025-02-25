@@ -24,24 +24,24 @@ Take into account the following:
   - `getDetails()` returns a formatted string with the item's details
 - `Book`
   - The constructor and the setter must ensure that `isbn` follows a 13-digit format
-  - `getDetails()` must return `Book: <Title> by <Author> (<Year>) - ISBN: <ISBN>"
+  - `getDetails()` must return `Book: <Title> by <Author> (<Year>) - ISBN: <ISBN>"`
 - `Magazine`
   - The constructor and the setter must ensure that `issueNumber` is positive
-  - `getDetails()` must return `Magazine: <Title> (Issue <Issue>, <Year>) - <Publisher>"
+  - `getDetails()` must return `Magazine: <Title> (Issue <Issue>, <Year>) - <Publisher>"`
 - `DVD`
   - The values for `format` are `VHS`, `DVD`, and `Blu-ray`
   - The constructor and the setter must ensure that `duration` is greater than 0
-  - `getDetails()` must return `DVD: <Title> by <Author> (<Year>) - Duration: <Minutes> minutes, <Format>"
+  - `getDetails()` must return `DVD: <Title> by <Author> (<Year>) - Duration: <Minutes> minutes, <Format>"`
 
 [Proposed solution(https://github.com/arturomorarioja/php_oop_library)]: #
 
-[## Homework]: #
-[Check out these slide decks:]: #
-[- Object-oriented Programming]: #
-[- OOP - Language Comparison]: #
-[Check out these code samples:]: #
-[- OOP in PHP(https://github.com/arturomorarioja/php_oop)]: #
-[- OOP in PHP Example(https://github.com/arturomorarioja/php_oop_example)]: #
+## Homework
+Check out these slide decks:
+- **Object-oriented Programming**
+- **OOP - Language Comparison**
+Check out these code samples:
+- [OOP in PHP](https://github.com/arturomorarioja/php_oop)
+- [OOP in PHP Example](https://github.com/arturomorarioja/php_oop_example)
 [Expand the library management system:]: #
 [- Add a `borrow()` and a `returnItem()` method to mark an item as borrowed or available]: #
 [- Implement a `Library` class that stores a collection of books, magazines, and DVDs and allows adding items and returning a list of items.]: #
