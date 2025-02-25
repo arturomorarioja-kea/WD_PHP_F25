@@ -39,6 +39,7 @@ Take into account the following:
 Check out these slide decks:
 - **Object-oriented Programming**
 - **OOP - Language Comparison**
+
 Check out these code samples:
 - [OOP in PHP](https://github.com/arturomorarioja/php_oop)
 - [OOP in PHP Example](https://github.com/arturomorarioja/php_oop_example)
