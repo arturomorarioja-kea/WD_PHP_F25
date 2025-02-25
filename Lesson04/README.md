@@ -17,21 +17,21 @@ Class diagram:
 Notice that public scope is indicated by a plus sign ("+"), private scope by a minus sign ("-"), and protected scope by a pad ("#").
 
 Take into account the following:
-[- `LibraryItem`]: #
-[  - The constructor must assign values to attributes and ensure that `publicationYear` is valid (i.e., not in the future)]: #
-[  - The setter allows modifying `publicationYear`, but ensures that the year is valid]: #
-[  - The getter allows accessing `publicationYear`]: #
-[  - `getDetails()` returns a formatted string with the item's details]: #
-[- `Book`]: #
-[  - The constructor and the setter must ensure that `isbn` follows a 13-digit format]: #
-[  - `getDetails()` must return `Book: <Title> by <Author> (<Year>) - ISBN: <ISBN>"]: #
-[- `Magazine`]: #
-[  - The constructor and the setter must ensure that `issueNumber` is positive]: #
-[  - `getDetails()` must return `Magazine: <Title> (Issue <Issue>, <Year>) - <Publisher>"]: #
-[- `DVD`]: #
-[  - The values for `format` are `VHS`, `DVD`, and `Blu-ray`]: #
-[  - The constructor and the setter must ensure that `duration` is greater than 0]: #
-[  - `getDetails()` must return `DVD: <Title> by <Author> (<Year>) - Duration: <Minutes> minutes, <Format>"]: #
+- `LibraryItem`
+  - The constructor must assign values to attributes and ensure that `publicationYear` is valid (i.e., not in the future)
+  - The setter allows modifying `publicationYear`, but ensures that the year is valid
+  - The getter allows accessing `publicationYear`
+  - `getDetails()` returns a formatted string with the item's details
+- `Book`
+  - The constructor and the setter must ensure that `isbn` follows a 13-digit format
+  - `getDetails()` must return `Book: <Title> by <Author> (<Year>) - ISBN: <ISBN>"
+- `Magazine`
+  - The constructor and the setter must ensure that `issueNumber` is positive
+  - `getDetails()` must return `Magazine: <Title> (Issue <Issue>, <Year>) - <Publisher>"
+- `DVD`
+  - The values for `format` are `VHS`, `DVD`, and `Blu-ray`
+  - The constructor and the setter must ensure that `duration` is greater than 0
+  - `getDetails()` must return `DVD: <Title> by <Author> (<Year>) - Duration: <Minutes> minutes, <Format>"
 
 [Proposed solution(https://github.com/arturomorarioja/php_oop_library)]: #
 
