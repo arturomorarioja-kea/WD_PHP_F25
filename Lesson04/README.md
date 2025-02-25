@@ -2,9 +2,6 @@
 
 # Lesson 4 - 25 February
 
-[--> git clone https://github.com/arturomorarioja/php_oop_example.git --> demo]: #
-[--> git clone https://github.com/arturomorarioja/php_oop_library_v2.git --> demo]: #
-
 ## In-class exercise
 
 ### Object-Oriented Programming
