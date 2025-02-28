@@ -2,7 +2,8 @@
 
 # Lesson 5 - 4 March
 
-[--> 1 Cookies. Slides. Code sample. In-class exercise]: #
+[--> OOP _toString(), OOP samples: 3 static, 5 override, 6 property array, 7, 8 (explain dependency injection), 9, 10, 11, then recap]: #
+[--> Cookies. Slides. Code sample. In-class exercise]: #
 
 [## Exercise solution]: #
 [- OOP extended library management(https://github.com/arturomorarioja/php_oop_library_v2)]: #
