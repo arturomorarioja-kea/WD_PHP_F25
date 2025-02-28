@@ -22,5 +22,9 @@
 [To make the dropdown trigger the change without a submit button, you need to add a little JavaScript that submits the form where the dropdown is upon its `change` event.]: #
 
 [## Homework]: #
+[Check out these slide decks:]: #
+[- Cookies in **PHP Syntax**]: #
+[- **Object-oriented Programming** in depth]: #
+
 [Check out these code samples:]: #
 [- Cookie management(https://github.com/arturomorarioja/php_cookies)]: #
