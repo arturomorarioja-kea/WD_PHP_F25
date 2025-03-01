@@ -20,6 +20,8 @@
 [  - Remove `borrow()` and `returnItem()` from `LibraryItem`, as not all child classes will use them]: #
 [  - Rather, make `Book` and `DVD` implement an interface `Borrowable` with the methods `borrowItem()` and `returnItem()`]: #
 
+[- Example of usage and output: index.php(https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson05/index.php), output.htm(https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson05/output.htm)]: #
+
 [### Language cookies]: #
 [Write a PHP application that changes the language of the text to display via cookies:]: #
 
