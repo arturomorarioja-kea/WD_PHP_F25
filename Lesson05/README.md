@@ -5,6 +5,7 @@
 [--> git pull oop_library_v2]: #
 [--> OOP _toString(), OOP samples: 3 static, 5 override, 6 property array, 7, 8 (explain dependency injection), 9, 10, 11, then recap]: #
 [--> Cookies. Slides. Code sample. In-class exercise]: #
+[--> php_pdo -> turn Database->connect() into the constructor ]: #
 
 [## Exercise solution]: #
 [- OOP extended library management(https://github.com/arturomorarioja/php_oop_library_v2)]: #
