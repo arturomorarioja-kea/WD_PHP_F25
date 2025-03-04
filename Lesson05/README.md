@@ -22,7 +22,7 @@ Expand [version 2](https://github.com/arturomorarioja/php_oop_library_v2) of the
 
 - Example of usage and output: [index.php](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson05/index.php), [output.htm](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson05/output.htm)
 
-[Proposed solution(https://github.com/arturomorarioja/php_oop_library_v3)]: #
+[Proposed solution](https://github.com/arturomorarioja/php_oop_library_v3)
 
 [### Language cookies]: #
 [Write a PHP application that changes the language of the text to display via cookies:]: #
