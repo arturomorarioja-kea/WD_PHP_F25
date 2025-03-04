@@ -2,9 +2,7 @@
 
 # Lesson 5 - 4 March
 
-[--> OOP _toString(), OOP samples: 3 static, 5 override, 6 property array, 7, 8 (explain dependency injection), 9, 10, 11, then recap]: #
 [--> Cookies. Slides. Code sample. In-class exercise]: #
-[--> php_pdo -> turn Database->connect() into the constructor ]: #
 [--> php_pdo -> rework folder structure. initialise.php]: #
 [--> add info on dependency injection]: #
 
