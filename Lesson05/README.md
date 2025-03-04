@@ -44,4 +44,4 @@ Check out this article: [Dependency Injection in PHP](https://medium.com/softwar
 Check out these code samples:
 - [Cookie management](https://github.com/arturomorarioja/php_cookies)
 
-[Start working on the First Mandatory Assignment(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1366218)]: #
+Start working on the [First Mandatory Assignment](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1366218). Check out the videos in Itslearning.
