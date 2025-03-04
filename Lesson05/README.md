@@ -2,9 +2,7 @@
 
 # Lesson 5 - 4 March
 
-[--> Cookies. Slides. Code sample. In-class exercise]: #
 [--> php_pdo -> rework folder structure. initialise.php]: #
-[--> add info on dependency injection]: #
 
 ## Exercise solution
 - [OOP extended library management](https://github.com/arturomorarioja/php_oop_library_v2)
