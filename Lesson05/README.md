@@ -36,7 +36,9 @@ Expand [version 2](https://github.com/arturomorarioja/php_oop_library_v2) of the
 
 ## Homework
 Check out these slide decks:
+
 [- Cookies in **PHP Syntax**]: #
+
 - **Object-oriented Programming** in depth
 
 Check out this article: [Dependency Injection in PHP](https://medium.com/software-engineering-and-architecture/dependency-injection-in-php-804b19a129ac)
