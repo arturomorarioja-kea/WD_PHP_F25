@@ -2,8 +2,6 @@
 
 # Lesson 5 - 4 March
 
-[--> php_pdo -> rework folder structure. initialise.php]: #
-
 ## Exercise solution
 - [OOP extended library management](https://github.com/arturomorarioja/php_oop_library_v2)
 
