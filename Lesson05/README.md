@@ -2,28 +2,27 @@
 
 # Lesson 5 - 4 March
 
-[--> git pull php_oop_library_v2]: #
-[--> git pull php_company_employees]: #
 [--> OOP _toString(), OOP samples: 3 static, 5 override, 6 property array, 7, 8 (explain dependency injection), 9, 10, 11, then recap]: #
 [--> Cookies. Slides. Code sample. In-class exercise]: #
 [--> php_pdo -> turn Database->connect() into the constructor ]: #
 [--> php_pdo -> rework folder structure. initialise.php]: #
+[--> add info on dependency injection]: #
 
-[## Exercise solution]: #
-[- OOP extended library management(https://github.com/arturomorarioja/php_oop_library_v2)]: #
+## Exercise solution
+- OOP extended library management(https://github.com/arturomorarioja/php_oop_library_v2)
 
-[## In-class exercises]: #
+## In-class exercises
 
-[### OOP Library Management v3]: #
+### OOP Library Management v3
 
-[Expand version 2(https://github.com/arturomorarioja/php_oop_library_v2) of the library management system:]: #
-[- Turn `LibraryItem` into an abstract class]: #
-[- Make `LibraryItem->getDetails()` an abstract method so that it is implemented in `LibraryItem`'s child classes]: #
-[- For this new version, the library will only allow books and DVDs (but not magazines) to be borrowed]: #
-[  - Remove `borrow()` and `returnItem()` from `LibraryItem`, as not all child classes will use them]: #
-[  - Rather, make `Book` and `DVD` implement an interface `Borrowable` with the methods `borrowItem()` and `returnItem()`]: #
+Expand version 2(https://github.com/arturomorarioja/php_oop_library_v2) of the library management system:
+- Turn `LibraryItem` into an abstract class
+- Make `LibraryItem->getDetails()` an abstract method so that it is implemented in `LibraryItem`'s child classes
+- For this new version, the library will only allow books and DVDs (but not magazines) to be borrowed
+  - Remove `borrow()` and `returnItem()` from `LibraryItem`, as not all child classes will use them
+  - Rather, make `Book` and `DVD` implement an interface `Borrowable` with the methods `borrowItem()` and `returnItem()`
 
-[- Example of usage and output: index.php(https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson05/index.php), output.htm(https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson05/output.htm)]: #
+- Example of usage and output: index.php(https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson05/index.php), output.htm(https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson05/output.htm)
 
 [### Language cookies]: #
 [Write a PHP application that changes the language of the text to display via cookies:]: #
