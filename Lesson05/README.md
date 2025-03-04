@@ -36,14 +36,12 @@ To make the dropdown trigger the change without a submit button, you need to add
 
 ## Homework
 Check out these slide decks:
-
-[- Cookies in **PHP Syntax**]: #
-
+- Cookies in **PHP Syntax**
 - **Object-oriented Programming** in depth
 
 Check out this article: [Dependency Injection in PHP](https://medium.com/software-engineering-and-architecture/dependency-injection-in-php-804b19a129ac)
 
-[Check out these code samples:]: #
-[- Cookie management(https://github.com/arturomorarioja/php_cookies)]: #
+Check out these code samples:
+- [Cookie management](https://github.com/arturomorarioja/php_cookies)
 
 [Start working on the First Mandatory Assignment(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1366218)]: #
