@@ -17,3 +17,4 @@
 [Check out these code samples:]: #
 [- Sessions(https://github.com/arturomorarioja/php_sessions)]: #
 [- Vulnerable app(https://github.com/arturomorarioja/php_sessions_lang)]: #
+[- CSRF Protection(https://github.com/arturomorarioja/php_csrf)]: #
