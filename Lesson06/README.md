@@ -2,6 +2,8 @@
 
 # Lesson 6 - 11 March
 
+[--> I need an exercise on Apache. Fish from Fronter]: #
+
 [## In-class exercises]: #
 
 [### Web Application Security]: #
