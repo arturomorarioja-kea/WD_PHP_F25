@@ -7,6 +7,7 @@
 [- Sessions in **PHP Syntax**]: #
 [- **Web Application Security**]: #
 [- **Web Servers** and **Apache Web Server**]: #
+
 [Check out these code samples:] #
 [- Sessions()]: #
 [- Vulnerable app()]: #
