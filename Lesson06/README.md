@@ -8,5 +8,5 @@
 [- **Web Application Security**]: #
 [- **Web Servers** and **Apache Web Server**]: #
 [Check out these code samples:]: #
-[- Sessions()]: #
-[- Vulnerable app()]: #
+[- Sessions(https://github.com/arturomorarioja/php_sessions)]: #
+[- Vulnerable app(https://github.com/arturomorarioja/php_sessions_lang)]: #
