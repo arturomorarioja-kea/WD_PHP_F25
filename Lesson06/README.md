@@ -2,7 +2,14 @@
 
 # Lesson 6 - 11 March
 
-[# Homework]: #
+[## In-class exercises]: #
+
+[### Web Application Security]: #
+[Change the Vulnerable Web Application(https://github.com/arturomorarioja/php_vulnerable_app) so that the most usual security attacks (SQL-injection, XSS, CSRF) are prevented]: #
+
+[Solution(https://github.com/arturomorarioja/php_vulnerable_web_application_secured)]: #
+
+[## Homework]: #
 [Check out these slides:]: #
 [- Sessions in **PHP Syntax**]: #
 [- **Web Application Security**]: #
