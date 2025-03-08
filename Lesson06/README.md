@@ -7,6 +7,9 @@
 [## In-class exercises]: #
 
 [### Sessions]: #
+[Rework the language cookies exercises with sessions instead of cookies.]: #
+
+[Solution(https://github.com/arturomorarioja/php_sessions_lang.git)]: #
 
 [## Homework]: #
 [Check out these slides:]: #
@@ -15,4 +18,4 @@
 [Check out these code samples:]: #
 [- Sessions(https://github.com/arturomorarioja/php_sessions)]: #
 [Check out these code samples:]: #
-[- Sessions()]: #
+[- Sessions(https://github.com/arturomorarioja/php_sessions)]: #
