@@ -15,19 +15,12 @@
 [### Apache Web Server]: #
 [Practice editing `httpd.conf`/`apache2.conf`. Get inspiration from the the slide deck **Apache Web Server**]: #
 
-[### Sessions]: #
-[Rework the language cookies exercises with sessions instead of cookies.]: #
-
-[Solution(https://github.com/arturomorarioja/php_sessions_lang.git)]: #
-
 [## Homework]: #
 [Check out these slides:]: #
-[- Sessions in **PHP Syntax**]: #
 [- **Web Servers** and **Apache Web Server**]: #
 [Check out these code samples:]: #
 [- Sessions(https://github.com/arturomorarioja/php_sessions)]: #
 [Check out these code samples:]: #
-[- Sessions(https://github.com/arturomorarioja/php_sessions)]: #
 [- Poems(https://github.com/arturomorarioja/php_oop_poems). OOP, API and file management example]: #
 [- Movies coding style(https://github.com/arturomorarioja/php_movies_coding_style). The same CRUD application as spaghetti code, procedural, OOP and OOP with inheritance. Notice that there are no proper API architectural style or HTTP return codes]: #
 [- Employees(https://github.com/arturomorarioja/php_employees_rest_api). REST API]: #
