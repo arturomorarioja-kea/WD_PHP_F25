@@ -4,7 +4,7 @@
 
 [--> Download Apache Web Server slides]: #
 [--> Apache VHosts: get info from amri.keadigital@gmail.com]: #
-[--> I need an exercise on Apache. Fish from Fronter]: #
+[--> git pull https://github.com/arturomorarioja/php_employees_rest_api]: #
 
 [## In-class exercises]: #
 
