@@ -21,3 +21,4 @@
 [- Sessions(https://github.com/arturomorarioja/php_sessions)]: #
 [Check out these code samples:]: #
 [- Sessions(https://github.com/arturomorarioja/php_sessions)]: #
+[- Movies coding style(https://github.com/arturomorarioja/php_movies_coding_style)]: #
