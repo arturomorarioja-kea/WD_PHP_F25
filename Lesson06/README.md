@@ -23,4 +23,5 @@
 [- Sessions(https://github.com/arturomorarioja/php_sessions)]: #
 [- Poems(https://github.com/arturomorarioja/php_oop_poems). OOP, API and file management example]: #
 [- Movies coding style(https://github.com/arturomorarioja/php_movies_coding_style). The same CRUD application as spaghetti code, procedural, OOP and OOP with inheritance]: #
+[- Employees(https://github.com/arturomorarioja/php_employees_rest_api). REST API]: #
 [Exercise: turn the poems API into a REST API]: #
