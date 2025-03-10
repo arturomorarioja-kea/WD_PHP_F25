@@ -3,11 +3,17 @@
 # Lesson 6 - 11 March
 
 [--> Download Apache Web Server slides]: #
+[--> Download Web API slides]: #
 [--> Apache VHosts: get info from amri.keadigital@gmail.com]: #
+[--> circe_app: get info from amri.keadigital@gmail.com]: #
 [--> git pull https://github.com/arturomorarioja/php_employees_rest_api]: #
 [--> git pull https://github.com/arturomorarioja/kea-movie-manager-rest-api]: #
+[--> demo API: the movies database, then they complete at home]: #
 
 [## In-class exercises]: #
+
+[### Apache Web Server]: #
+[Practice editing `httpd.conf`/`apache2.conf`. Get inspiration from the the slide deck **Apache Web Server**]: #
 
 [### Sessions]: #
 [Rework the language cookies exercises with sessions instead of cookies.]: #
