@@ -9,4 +9,5 @@
 - [Lesson 3](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson03/README.md) (18 February): PDO
 - [Lesson 4](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson04/README.md) (25 February): OOP
 - [Lesson 5](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson05/README.md) (4 March): OOP. Cookies
-- [Lesson 6](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson06/README.md) (11 March)
+- [Lesson 6](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson06/README.md) (11 March): Apache Web Server. Writing APIs in PHP
+- [Lesson 7](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson07/README.md) (18 March)
