@@ -2,6 +2,8 @@
 
 # Lesson 6 - 11 March
 
+[--> Download Apache Web Server slides]: #
+[--> Apache VHosts: get info from amri.keadigital@gmail.com]: #
 [--> I need an exercise on Apache. Fish from Fronter]: #
 
 [## In-class exercises]: #
