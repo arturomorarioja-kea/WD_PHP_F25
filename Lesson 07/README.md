@@ -9,9 +9,16 @@
 
 [Solution(https://github.com/arturomorarioja/php_vulnerable_web_application_secured)]: #
 
+[### Sessions]: #
+[Rework the language cookies exercises with sessions instead of cookies.]: #
+
+[Solution(https://github.com/arturomorarioja/php_sessions_lang.git)]: #
+
 [## Homework]: #
 [Check out these slides:]: #
 [- **Web Application Security**]: #
+[- Sessions in **PHP Syntax**]: #
 [Check out these code samples:]: #
 [- Vulnerable app(https://github.com/arturomorarioja/php_sessions_lang)]: #
 [- CSRF Protection(https://github.com/arturomorarioja/php_csrf)]: #
+[- Sessions(https://github.com/arturomorarioja/php_sessions)]: #
