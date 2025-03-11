@@ -20,5 +20,5 @@ Check out these code samples:
 
 [### Exercises]: #
 [- Turn the poems API into a REST API. Do not forget to return the proper HTTP codes]: #
-[- Create a RESTful API for the movies database(https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson06/movies.sql) with the following specification:]: #
+[- Create a RESTful API for the movies database(https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson06/movies.sql) based on https://github.com/arturomorarioja/php_movie_api_initial with the following specification:]: #
 [--> copy/paste it from kea-movie-manager-rest-api]: #
