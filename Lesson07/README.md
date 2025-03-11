@@ -3,6 +3,8 @@
 # Lesson 7 - 18 March
 
 [--> circe_app: get info from amri.keadigital@gmail.com]: #
+[--> git pull https://github.com/arturomorarioja/php_company]: #
+[  --> Company cUrl: get info from amri.keadigital@gmail.com]: #
 
 [## Exercise solutions]: #
 [- Poems API()]: #
@@ -28,5 +30,6 @@
 [- Sessions(https://github.com/arturomorarioja/php_sessions)]: #
 [- Vulnerable app(https://github.com/arturomorarioja/php_sessions_lang)]: #
 [- CSRF Protection(https://github.com/arturomorarioja/php_csrf)]: #
+[- Company - API consumption with cUrl(https://github.com/arturomorarioja/php_company)]: #
 
 [--> Something else, maybe API related]: #
