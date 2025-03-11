@@ -30,6 +30,8 @@
 [- Sessions(https://github.com/arturomorarioja/php_sessions)]: #
 [- Vulnerable app(https://github.com/arturomorarioja/php_sessions_lang)]: #
 [- CSRF Protection(https://github.com/arturomorarioja/php_csrf)]: #
-[- Company - API consumption with cUrl(https://github.com/arturomorarioja/php_company)]: #
+[- PHP API Consumption:]: #
+[  - `file_get_contents()` vs. `cUrl()`(https://github.com/arturomorarioja/php_api_consumption)]: #
+[  - Company - API consumption with cUrl(https://github.com/arturomorarioja/php_company)]: #
 
 [--> Something else, maybe API related]: #
