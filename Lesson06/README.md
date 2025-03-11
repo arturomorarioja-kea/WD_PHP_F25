@@ -2,9 +2,6 @@
 
 # Lesson 6 - 11 March
 
-[--> circe_app: get info from amri.keadigital@gmail.com]: #
-[--> demo API: the movies database, then they complete at home]: #
-
 ## In-class exercises
 
 ### Apache Web Server
