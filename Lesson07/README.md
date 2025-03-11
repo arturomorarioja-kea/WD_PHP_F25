@@ -2,23 +2,31 @@
 
 # Lesson 7 - 18 March
 
+[--> circe_app: get info from amri.keadigital@gmail.com]: #
+
+[## Exercise solutions]: #
+[- Poems API()]: #
+[- Movies REST API(https://github.com/arturomorarioja/kea-movie-manager-rest-api)]: #
+
 [## In-class exercises]: #
-
-[### Web Application Security]: #
-[Change the Vulnerable Web Application(https://github.com/arturomorarioja/php_vulnerable_app) so that the most usual security attacks (SQL-injection, XSS, CSRF) are prevented]: #
-
-[Solution(https://github.com/arturomorarioja/php_vulnerable_web_application_secured)]: #
 
 [### Sessions]: #
 [Rework the language cookies exercises with sessions instead of cookies.]: #
 
 [Solution(https://github.com/arturomorarioja/php_sessions_lang.git)]: #
 
+[### Web Application Security]: #
+[Change the Vulnerable Web Application(https://github.com/arturomorarioja/php_vulnerable_app) so that the most usual security attacks (SQL-injection, XSS, CSRF) are prevented]: #
+
+[Solution(https://github.com/arturomorarioja/php_vulnerable_web_application_secured)]: #
+
 [## Homework]: #
 [Check out these slides:]: #
-[- **Web Application Security**]: #
 [- Sessions in **PHP Syntax**]: #
+[- **Web Application Security**]: #
 [Check out these code samples:]: #
+[- Sessions(https://github.com/arturomorarioja/php_sessions)]: #
 [- Vulnerable app(https://github.com/arturomorarioja/php_sessions_lang)]: #
 [- CSRF Protection(https://github.com/arturomorarioja/php_csrf)]: #
-[- Sessions(https://github.com/arturomorarioja/php_sessions)]: #
+
+[--> Something else, maybe API related]: #
