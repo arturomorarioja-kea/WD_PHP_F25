@@ -39,11 +39,17 @@ http://_<server_name>_/kea-movie-manager-rest-api/_<endpoint>_
 For the examples below, the API is assumed to run at `http://localhost/kea-movie-manager-rest-api`.
 
 GET http://localhost/kea-movie-manager-rest-api/
+
 GET http://localhost/kea-movie-manager-rest-api/movies
+
 GET http://localhost/kea-movie-manager-rest-api/movies?name=Star
+
 GET http://localhost/kea-movie-manager-rest-api/movies/4
+
 POST http://localhost/kea-movie-manager-rest-api/movies
+
 PUT http://localhost/kea-movie-manager-rest-api/movies/27
+
 DELETE http://localhost/kea-movie-manager-rest-api/movies/27
 
 #### Sample Output:
