@@ -4,10 +4,11 @@
 
 [--> circe_app: get info from amri.keadigital@gmail.com]: #
 [--> git pull https://github.com/arturomorarioja/php_company]: #
+[--> git clone https://github.com/arturomorarioja/php_oop_poems_rest]: #
 [  --> Company cUrl: get info from amri.keadigital@gmail.com]: #
 
 [## Exercise solutions]: #
-[- Poems API()]: #
+[- Poems API(https://github.com/arturomorarioja/php_oop_poems_rest)]: #
 [- Movies REST API(https://github.com/arturomorarioja/kea-movie-manager-rest-api)]: #
 
 [## In-class exercises]: #
