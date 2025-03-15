@@ -7,6 +7,11 @@
 [--> git clone https://github.com/arturomorarioja/php_oop_poems_rest]: #
 [  --> Company cUrl: get info from amri.keadigital@gmail.com]: #
 
+[--> 1 Solutions (poems + movies)]: #
+[--> 2 Sessions + in-class exercise]: #
+[--> 3 API consumption sample]: #
+[--> 4 Security + vulnerable app demo + csrf demo + in-class exercise (or homework)]: #
+
 [## Exercise solutions]: #
 [- Poems API(https://github.com/arturomorarioja/php_oop_poems_rest)]: #
 [- Movies REST API(https://github.com/arturomorarioja/kea-movie-manager-rest-api)]: #
@@ -35,4 +40,4 @@
 [  - `file_get_contents()` vs. `cUrl()`(https://github.com/arturomorarioja/php_api_consumption)]: #
 [  - Company - API consumption with cUrl(https://github.com/arturomorarioja/php_company)]: #
 
-[--> Something else, maybe API related]: #
+[--> Something else?]: #
