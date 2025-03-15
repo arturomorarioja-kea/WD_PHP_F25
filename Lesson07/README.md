@@ -4,10 +4,11 @@
 
 [--> circe_app: get info from amri.keadigital@gmail.com]: #
 [--> git pull https://github.com/arturomorarioja/php_company]: #
+[--> git pull php_films_rest_api]: #
 [--> git clone https://github.com/arturomorarioja/php_oop_poems_rest]: #
 [  --> Company cUrl: get info from amri.keadigital@gmail.com]: #
 
-[--> 1 Solutions (poems + movies)]: #
+[--> 1 Solutions (poems + movies) + demo films REST API (incl. Postman tests)]: #
 [--> 2 Sessions + in-class exercise]: #
 [--> 3 API consumption sample]: #
 [--> 4 Security + vulnerable app demo + csrf demo + in-class exercise (or homework)]: #
@@ -36,6 +37,7 @@
 [- Sessions(https://github.com/arturomorarioja/php_sessions)]: #
 [- Vulnerable app(https://github.com/arturomorarioja/php_sessions_lang)]: #
 [- CSRF Protection(https://github.com/arturomorarioja/php_csrf)]: #
+[- Films REST API(https://github.com/arturomorarioja/php_films_rest_api)]: #
 [- PHP API Consumption:]: #
 [  - `file_get_contents()` vs. `cUrl()`(https://github.com/arturomorarioja/php_api_consumption)]: #
 [  - Company - API consumption with cUrl(https://github.com/arturomorarioja/php_company)]: #
