@@ -22,6 +22,7 @@ Change the [Vulnerable Web Application](https://github.com/arturomorarioja/php_v
 Check out these slides:
 - Sessions in **PHP Syntax**
 - **Web Application Security**
+  
 Check out these code samples:
 - [Sessions](https://github.com/arturomorarioja/php_sessions)
 - [Vulnerable app](https://github.com/arturomorarioja/php_vulnerable_app)
