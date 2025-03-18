@@ -13,10 +13,10 @@
 - [Poems API](https://github.com/arturomorarioja/php_oop_poems_rest)
 - [Movies REST API](https://github.com/arturomorarioja/kea-movie-manager-rest-api)
 
-[## In-class exercises]: #
+## In-class exercises
 
-[### Sessions]: #
-[Rework the language cookies exercises with sessions instead of cookies.]: #
+### Sessions
+Rework the language cookies exercises with sessions instead of cookies.
 
 [Solution(https://github.com/arturomorarioja/php_sessions_lang.git)]: #
 
