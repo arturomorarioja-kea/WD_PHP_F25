@@ -2,9 +2,6 @@
 
 # Lesson 7 - 18 March
 
-[--> 3 API consumption sample]: #
-[--> 4 Security + vulnerable app demo + csrf demo + in-class exercise (or homework)]: #
-
 ## Exercise solutions
 - [Poems API](https://github.com/arturomorarioja/php_oop_poems_rest)
 - [Movies REST API](https://github.com/arturomorarioja/kea-movie-manager-rest-api)
@@ -34,3 +31,14 @@ Check out these code samples:
 [- PHP API Consumption:]: #
 [  - `file_get_contents()` vs. `cUrl()`(https://github.com/arturomorarioja/php_api_consumption)]: #
 [  - Company - API consumption with cUrl(https://github.com/arturomorarioja/php_company)]: #
+
+### Exercise
+Create a PHP application where the user can sign up, log in and log out with the following specification:
+- Use sessions
+- Store the session token and its expiration date (30 minutes) in the database
+- The database may have a table `user` with ID, name, email, password hash and token expiration date/time
+- Potential UI:
+
+![image](https://github.com/user-attachments/assets/d0f7863b-d792-46f2-a853-765b7dd1879b)
+![image](https://github.com/user-attachments/assets/cb772300-346f-4d61-841f-660b8ceae6cd)
+![image](https://github.com/user-attachments/assets/412c67f3-2a66-4074-982b-bc0f872c81dd)
