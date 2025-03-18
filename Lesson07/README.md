@@ -2,10 +2,6 @@
 
 # Lesson 7 - 18 March
 
-[--> circe_app: get info from amri.keadigital@gmail.com]: #
-[  --> Company cUrl: get info from amri.keadigital@gmail.com]: #
-
-[--> 2 Sessions + in-class exercise]: #
 [--> 3 API consumption sample]: #
 [--> 4 Security + vulnerable app demo + csrf demo + in-class exercise (or homework)]: #
 
@@ -18,7 +14,7 @@
 ### Sessions
 Rework the [language cookies exercise](https://github.com/arturomorarioja/php_cookies_lang) with sessions instead of cookies.
 
-[Solution(https://github.com/arturomorarioja/php_sessions_lang.git)]: #
+[Solution](https://github.com/arturomorarioja/php_sessions_lang.git)
 
 [### Web Application Security]: #
 [Change the Vulnerable Web Application(https://github.com/arturomorarioja/php_vulnerable_app) so that the most usual security attacks (SQL-injection, XSS, CSRF) are prevented]: #
