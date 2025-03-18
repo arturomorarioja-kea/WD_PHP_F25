@@ -32,7 +32,9 @@ Check out these code samples:
 [  - `file_get_contents()` vs. `cUrl()`(https://github.com/arturomorarioja/php_api_consumption)]: #
 [  - Company - API consumption with cUrl(https://github.com/arturomorarioja/php_company)]: #
 
-### Exercise
+### Exercises
+Finish the vulnerable web application.
+
 Create a PHP application where the user can sign up, log in and log out with the following specification:
 - Use sessions
 - Store the session token and its expiration date (30 minutes) in the database
