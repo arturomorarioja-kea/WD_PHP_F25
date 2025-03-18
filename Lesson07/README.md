@@ -26,11 +26,9 @@ Check out these code samples:
 - [Sessions](https://github.com/arturomorarioja/php_sessions)
 - [Vulnerable app](https://github.com/arturomorarioja/php_vulnerable_app)
 - [CSRF Protection](https://github.com/arturomorarioja/php_csrf)
-  
-[- Films REST API(https://github.com/arturomorarioja/php_films_rest_api)]: #
-[- PHP API Consumption:]: #
-[  - `file_get_contents()` vs. `cUrl()`(https://github.com/arturomorarioja/php_api_consumption)]: #
-[  - Company - API consumption with cUrl(https://github.com/arturomorarioja/php_company)]: #
+- PHP API Consumption:
+  - [`file_get_contents()` vs. `cUrl()`](https://github.com/arturomorarioja/php_api_consumption)
+  - [Company - API consumption with cUrl](https://github.com/arturomorarioja/php_company)
 
 ### Exercises
 Finish the vulnerable web application.
