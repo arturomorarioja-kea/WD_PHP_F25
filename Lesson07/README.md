@@ -16,8 +16,8 @@ Rework the [language cookies exercise](https://github.com/arturomorarioja/php_co
 
 [Solution](https://github.com/arturomorarioja/php_sessions_lang.git)
 
-[### Web Application Security]: #
-[Change the Vulnerable Web Application(https://github.com/arturomorarioja/php_vulnerable_app) so that the most usual security attacks (SQL-injection, XSS, CSRF) are prevented]: #
+### Web Application Security
+Change the [Vulnerable Web Application](https://github.com/arturomorarioja/php_vulnerable_app) so that the most usual security attacks (SQL-injection, XSS, CSRF) are prevented.
 
 [Solution(https://github.com/arturomorarioja/php_vulnerable_web_application_secured)]: #
 
@@ -27,7 +27,7 @@ Check out these slides:
 - **Web Application Security**
 Check out these code samples:
 - [Sessions](https://github.com/arturomorarioja/php_sessions)
-- [Vulnerable app](https://github.com/arturomorarioja/php_sessions_lang)
+- [Vulnerable app](https://github.com/arturomorarioja/php_vulnerable_app)
 - [CSRF Protection](https://github.com/arturomorarioja/php_csrf)
 [- Films REST API(https://github.com/arturomorarioja/php_films_rest_api)]: #
 [- PHP API Consumption:]: #
