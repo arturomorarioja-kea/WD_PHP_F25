@@ -21,17 +21,15 @@ Rework the [language cookies exercise](https://github.com/arturomorarioja/php_co
 
 [Solution(https://github.com/arturomorarioja/php_vulnerable_web_application_secured)]: #
 
-[## Homework]: #
-[Check out these slides:]: #
-[- Sessions in **PHP Syntax**]: #
-[- **Web Application Security**]: #
-[Check out these code samples:]: #
-[- Sessions(https://github.com/arturomorarioja/php_sessions)]: #
-[- Vulnerable app(https://github.com/arturomorarioja/php_sessions_lang)]: #
-[- CSRF Protection(https://github.com/arturomorarioja/php_csrf)]: #
+## Homework
+Check out these slides:
+- Sessions in **PHP Syntax**
+- **Web Application Security**
+Check out these code samples:
+- [Sessions](https://github.com/arturomorarioja/php_sessions)
+- [Vulnerable app](https://github.com/arturomorarioja/php_sessions_lang)
+- [CSRF Protection](https://github.com/arturomorarioja/php_csrf)
 [- Films REST API(https://github.com/arturomorarioja/php_films_rest_api)]: #
 [- PHP API Consumption:]: #
 [  - `file_get_contents()` vs. `cUrl()`(https://github.com/arturomorarioja/php_api_consumption)]: #
 [  - Company - API consumption with cUrl(https://github.com/arturomorarioja/php_company)]: #
-
-[--> Something else?]: #
