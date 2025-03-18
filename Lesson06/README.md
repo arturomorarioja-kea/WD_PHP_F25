@@ -10,6 +10,7 @@ Practice editing your Apache Web Server configuration and try using `.htaccess` 
 ## Homework
 Check out these slides:
 - **Web Servers** and **Apache Web Server**
+  
 Check out these code samples:
 - [Poems](https://github.com/arturomorarioja/php_oop_poems). OOP, API and file management example
 - [Movies coding style](https://github.com/arturomorarioja/php_movies_coding_style). The same CRUD application as spaghetti code, procedural, OOP and OOP with inheritance. Notice that there are no proper API architectural style or HTTP return codes
