@@ -38,7 +38,4 @@ Create a PHP application where the user can sign up, log in and log out with the
 - Store the session token and its expiration date (30 minutes) in the database
 - The database may have a table `user` with ID, name, email, password hash and token expiration date/time
 - Potential UI:
-
-![image](https://github.com/user-attachments/assets/d0f7863b-d792-46f2-a853-765b7dd1879b)
-![image](https://github.com/user-attachments/assets/cb772300-346f-4d61-841f-660b8ceae6cd)
-![image](https://github.com/user-attachments/assets/412c67f3-2a66-4074-982b-bc0f872c81dd)
+![image](https://github.com/user-attachments/assets/76a07fd6-bc5b-4f64-a101-60b15a5615a2)
