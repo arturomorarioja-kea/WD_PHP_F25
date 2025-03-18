@@ -3,19 +3,15 @@
 # Lesson 7 - 18 March
 
 [--> circe_app: get info from amri.keadigital@gmail.com]: #
-[--> git pull https://github.com/arturomorarioja/php_company]: #
-[--> git pull php_films_rest_api]: #
-[--> git clone https://github.com/arturomorarioja/php_oop_poems_rest]: #
 [  --> Company cUrl: get info from amri.keadigital@gmail.com]: #
 
-[--> 1 Solutions (poems + movies) + demo films REST API (incl. Postman tests)]: #
 [--> 2 Sessions + in-class exercise]: #
 [--> 3 API consumption sample]: #
 [--> 4 Security + vulnerable app demo + csrf demo + in-class exercise (or homework)]: #
 
-[## Exercise solutions]: #
-[- Poems API(https://github.com/arturomorarioja/php_oop_poems_rest)]: #
-[- Movies REST API(https://github.com/arturomorarioja/kea-movie-manager-rest-api)]: #
+## Exercise solutions
+- [Poems API](https://github.com/arturomorarioja/php_oop_poems_rest)
+- [Movies REST API](https://github.com/arturomorarioja/kea-movie-manager-rest-api)
 
 [## In-class exercises]: #
 
