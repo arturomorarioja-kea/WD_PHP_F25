@@ -16,7 +16,7 @@
 ## In-class exercises
 
 ### Sessions
-Rework the language cookies exercise with sessions instead of cookies.
+Rework the [language cookies exercise](https://github.com/arturomorarioja/php_cookies_lang) with sessions instead of cookies.
 
 [Solution(https://github.com/arturomorarioja/php_sessions_lang.git)]: #
 
