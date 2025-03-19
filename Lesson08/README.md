@@ -7,8 +7,10 @@
 [--> git clone https://github.com/arturomorarioja/php_unit_test_sample.git - use it to illustrate why unit tests]: #
 [--> Two companies I visited use PHP]: #
 
+[--> Mailer + signup/login demo]: #
 [--> Composer demo with fakerphp/faker]: #
 [--> UT start with the ut sample only with AAA, then sum (different asserts), then data providers in the ut sample, then data providers and exceptions in the length converter]: #
+[--> Data providers from PHPUnit 9.5 to 11.5: besides #DataProvider('name') instead of the JavaDoc, remember the use at the top]: #
 
 [## In-class exercise]: #
 [--> Some code they can write UT on and which has a class with several business logic methods]: #
@@ -21,6 +23,8 @@
 [  - Length converter(https://github.com/arturomorarioja/php_length_converter_unit_tests)]: #
 [  - HTML 2 Markdown(https://github.com/arturomorarioja/php_markdown_to_html)]: #
 [- Films REST API(https://github.com/arturomorarioja/php_films_rest_api)]: #
+[- Mailer(https://github.com/arturomorarioja/php_mailer)]: #
+[- Sign up and log in with email validation(https://github.com/arturomorarioja/php_signup_login)]: #
 
 [### Exercises]: #
 [- Write better unit tests for the HTML 2 Markdown application so that they catch errors]: #
