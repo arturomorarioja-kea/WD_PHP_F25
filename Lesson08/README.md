@@ -2,6 +2,8 @@
 
 # Lesson 8 - 25 March
 
+[--> 2 companies I visited use PHP]: #
+
 [## Homework]: #
 [Check out these code samples:]: #
 [- Films REST API(https://github.com/arturomorarioja/php_films_rest_api)]: #
