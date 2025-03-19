@@ -5,12 +5,14 @@
 [--> THEY SHOULD INSTALL COMPOSER BEFOREHAND]: #
 
 [--> git clone https://github.com/arturomorarioja/php_unit_test_sample.git - use it to illustrate why unit tests]: #
+[--> download PHPUnit slides]: #
 [--> Two companies I visited use PHP]: #
 
 [--> Mailer + signup/login demo]: #
 [--> Composer demo with fakerphp/faker]: #
 [--> UT start with the ut sample only with AAA, then sum (different asserts), then data providers in the ut sample, then data providers and exceptions in the length converter]: #
 [--> Data providers from PHPUnit 9.5 to 11.5: besides #DataProvider('name') instead of the JavaDoc, remember the use at the top]: #
+[--> Deployment!!!]: #
 
 [## In-class exercise]: #
 [--> Some code they can write UT on and which has a class with several business logic methods]: #
