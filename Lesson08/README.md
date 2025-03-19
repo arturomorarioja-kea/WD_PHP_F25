@@ -7,6 +7,6 @@
 
 
 [## Homework]: #
-[Check out the slide decks **Composer** and **PHPUnit**]: #
+[Check out the slide decks **Composer**, **Introduction to Unit Testing**, and **PHPUnit**]: #
 [Check out these code samples:]: #
 [- Films REST API(https://github.com/arturomorarioja/php_films_rest_api)]: #
