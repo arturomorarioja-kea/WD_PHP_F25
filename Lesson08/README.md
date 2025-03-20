@@ -5,6 +5,8 @@
 [--> THEY SHOULD INSTALL COMPOSER BEFOREHAND]: #
 
 [--> git clone https://github.com/arturomorarioja/php_unit_test_sample.git - use it to illustrate why unit tests]: #
+[--> git clone https://github.com/arturomorarioja/php_order_calculator]: #
+[--> git clone https://github.com/arturomorarioja/php_order_calculator_unit_tests]: #
 [--> download PHPUnit slides]: #
 [--> Two companies I visited use PHP]: #
 
@@ -15,7 +17,7 @@
 [--> Deployment!!!]: #
 
 [## In-class exercise]: #
-[--> Some code they can write UT on and which has a class with several business logic methods]: #
+[Write unit tests for the Order Calculator(https://github.com/arturomorarioja/php_order_calculator)]: #
 
 [## Homework]: #
 [Check out the slide decks **Composer**, **Introduction to Unit Testing**, and **PHPUnit**]: #
