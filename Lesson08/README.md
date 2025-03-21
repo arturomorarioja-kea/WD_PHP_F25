@@ -39,6 +39,7 @@
 [### Exercises]: #
 [- Write better unit tests for the HTML 2 Markdown application so that they catch errors]: #
 [- Try deploying your own PHP applications. Find suitable hosting providers]: #
+[- Finish the First Mandatory Assignment(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1366218). Remember that next week you will have to present it to the class]: #
 
 [--> Next week]: #
 [--> HTML 2 Markdown solution: https://github.com/arturomorarioja/php_markdown_to_html_unit_tests]: #
