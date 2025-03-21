@@ -3,18 +3,23 @@
 # Lesson 8 - 25 March
 
 [--> THEY SHOULD INSTALL COMPOSER BEFOREHAND]: #
+[--> Two companies I visited use PHP]: #
 
 [--> git clone https://github.com/arturomorarioja/php_unit_test_sample.git - use it to illustrate why unit tests]: #
 [--> git clone https://github.com/arturomorarioja/php_order_calculator]: #
 [--> git clone https://github.com/arturomorarioja/php_order_calculator_unit_tests]: #
 [--> download PHPUnit slides]: #
-[--> Two companies I visited use PHP]: #
 
 [--> Mailer + signup/login demo]: #
 [--> Composer demo with fakerphp/faker]: #
 [--> UT start with the ut sample only with AAA, then sum (different asserts), then data providers in the ut sample, then data providers and exceptions in the length converter]: #
 [--> Data providers from PHPUnit 9.5 to 11.5: besides #DataProvider('name') instead of the JavaDoc, remember the use at the top]: #
-[--> Deployment!!!]: #
+
+[--> git pull php_company_employee]: #
+[--> Deployment demo: http://keacompany.great-site.net/]: #
+[  --> https://www.infinityfree.com/ login with arturomorarioja@gmail.com]: #
+[  --> Show phpmyadmin, ftp credentials]: #
+[  --> Install FileZilla. Configure: info at amri.keadigital@gmail.com]: #
 
 [## In-class exercise]: #
 [Write unit tests for the Order Calculator(https://github.com/arturomorarioja/php_order_calculator)]: #
@@ -32,6 +37,7 @@
 
 [### Exercises]: #
 [- Write better unit tests for the HTML 2 Markdown application so that they catch errors]: #
+[- Try deploying your own PHP applications. Find suitable hosting providers]: #
 
 [--> Next week]: #
 [--> HTML 2 Markdown solution: https://github.com/arturomorarioja/php_markdown_to_html_unit_tests]: #
