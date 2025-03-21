@@ -8,14 +8,15 @@
 [--> git clone https://github.com/arturomorarioja/php_unit_test_sample.git - use it to illustrate why unit tests]: #
 [--> git clone https://github.com/arturomorarioja/php_order_calculator]: #
 [--> git clone https://github.com/arturomorarioja/php_order_calculator_unit_tests]: #
+[--> git pull php_company_employee]: #
 [--> download PHPUnit slides]: #
 
-[--> Mailer + signup/login demo]: #
 [--> Composer demo with fakerphp/faker]: #
+[--> Mailer + signup/login demo]: #
+
 [--> UT start with the ut sample only with AAA, then sum (different asserts), then data providers in the ut sample, then data providers and exceptions in the length converter]: #
 [--> Data providers from PHPUnit 9.5 to 11.5: besides #DataProvider('name') instead of the JavaDoc, remember the use at the top]: #
 
-[--> git pull php_company_employee]: #
 [--> Deployment demo: http://keacompany.great-site.net/]: #
 [  --> https://www.infinityfree.com/ login with arturomorarioja@gmail.com]: #
 [  --> Show phpmyadmin, ftp credentials]: #
