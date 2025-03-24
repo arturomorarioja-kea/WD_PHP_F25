@@ -11,13 +11,15 @@
 [--> git pull php_company_employee]: #
 [--> download PHPUnit slides]: #
 
-[--> Composer demo with fakerphp/faker]: #
+[--> 1 Composer demo with fakerphp/faker]: #
 [--> Mailer + signup/login demo]: #
 
-[--> UT start with the ut sample only with AAA, then sum (different asserts), then data providers in the ut sample, then data providers and exceptions in the length converter]: #
+[--> 2 UT start with the ut sample only with AAA, then sum (different asserts), then data providers in the ut sample, then data providers and exceptions in the length converter]: #
 [--> Data providers from PHPUnit 9.5 to 11.5: besides #DataProvider('name') instead of the JavaDoc, remember the use at the top]: #
 
-[--> Deployment demo: http://keacompany.great-site.net/]: #
+[--> 3 Signup & Login]: #
+
+[--> 4 Deployment demo: http://keacompany.great-site.net/]: #
 [  --> https://www.infinityfree.com/ login with arturomorarioja@gmail.com]: #
 [  --> Show phpmyadmin, ftp credentials]: #
 [  --> Install FileZilla. Configure: info at amri.keadigital@gmail.com]: #
