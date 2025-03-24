@@ -17,7 +17,7 @@
 [--> 2 UT start with the ut sample only with AAA, then sum (different asserts), then data providers in the ut sample, then data providers and exceptions in the length converter]: #
 [--> Data providers from PHPUnit 9.5 to 11.5: besides #DataProvider('name') instead of the JavaDoc, remember the use at the top]: #
 
-[--> 3 Signup & Login]: #
+[--> 3 php_mailer & Signup & Login]: #
 
 [--> 4 Deployment demo: http://keacompany.great-site.net/]: #
 [  --> https://www.infinityfree.com/ login with arturomorarioja@gmail.com]: #
