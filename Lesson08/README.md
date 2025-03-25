@@ -30,6 +30,7 @@ Check out these code samples:
 
 ### Exercises
 - Write better unit tests for the HTML 2 Markdown application so that they catch errors
+- Study and analyse the Sign up and login with email validation application. Check out the diagrams in the `docs` folder
 - Finish the [First Mandatory Assignment](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1366218). Remember that next week you will have to present it to the class
   
 [- Try deploying your own PHP applications. Find suitable hosting providers]: #
