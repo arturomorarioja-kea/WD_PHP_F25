@@ -14,6 +14,7 @@ Write unit tests for the [Order Calculator](https://github.com/arturomorarioja/p
 
 ## Homework
 Check out the slide decks **Composer**, **Introduction to Unit Testing**, and **PHPUnit**
+
 Check out these code samples:
 - PHPUnit:
   - [Sum](https://github.com/arturomorarioja/php_sum_unit_tests)
