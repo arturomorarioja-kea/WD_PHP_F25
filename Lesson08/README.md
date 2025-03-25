@@ -23,16 +23,16 @@ Check out these code samples:
   - [Sum](https://github.com/arturomorarioja/php_sum_unit_tests)
   - [Length converter](https://github.com/arturomorarioja/php_length_converter_unit_tests) 
   - [HTML 2 Markdown](https://github.com/arturomorarioja/php_markdown_to_html)
+- [Mailer](https://github.com/arturomorarioja/php_mailer)
+- [Sign up and log in with email validation](https://github.com/arturomorarioja/php_signup_login)
 
 [- Films REST API(https://github.com/arturomorarioja/php_films_rest_api)]: #
-[- Mailer(https://github.com/arturomorarioja/php_mailer)]: #
-[- Sign up and log in with email validation(https://github.com/arturomorarioja/php_signup_login)]: #
 
 ### Exercises
 - Write better unit tests for the HTML 2 Markdown application so that they catch errors
+- Finish the [First Mandatory Assignment](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1366218). Remember that next week you will have to present it to the class
   
 [- Try deploying your own PHP applications. Find suitable hosting providers]: #
-[- Finish the First Mandatory Assignment(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1366218). Remember that next week you will have to present it to the class]: #
 
 [--> Next week]: #
 [--> HTML 2 Markdown solution: https://github.com/arturomorarioja/php_markdown_to_html_unit_tests]: #
