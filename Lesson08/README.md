@@ -9,10 +9,8 @@
 [--> git clone https://github.com/arturomorarioja/php_order_calculator]: #
 [--> git clone https://github.com/arturomorarioja/php_order_calculator_unit_tests]: #
 [--> git pull php_company_employee]: #
-[--> download PHPUnit slides]: #
 
 [--> 1 Composer demo with fakerphp/faker]: #
-[--> Mailer + signup/login demo]: #
 
 [--> 2 UT start with the ut sample only with AAA, then sum (different asserts), then data providers in the ut sample, then data providers and exceptions in the length converter]: #
 [--> Data providers from PHPUnit 9.5 to 11.5: besides #DataProvider('name') instead of the JavaDoc, remember the use at the top]: #
@@ -24,8 +22,8 @@
 [  --> Show phpmyadmin, ftp credentials]: #
 [  --> Install FileZilla. Configure: info at amri.keadigital@gmail.com]: #
 
-[## In-class exercise]: #
-[Write unit tests for the Order Calculator(https://github.com/arturomorarioja/php_order_calculator)]: #
+## In-class exercise
+Write unit tests for the [Order Calculator](https://github.com/arturomorarioja/php_order_calculator)
 
 [## Homework]: #
 [Check out the slide decks **Composer**, **Introduction to Unit Testing**, and **PHPUnit**]: #
