@@ -12,6 +12,8 @@
 ## In-class exercise
 Write unit tests for the [Order Calculator](https://github.com/arturomorarioja/php_order_calculator)
 
+[Proposed solution](https://github.com/arturomorarioja/php_order_calculator_unit_tests)
+
 ## Homework
 Check out the slide decks **Composer**, **Introduction to Unit Testing**, and **PHPUnit**
 
@@ -19,15 +21,16 @@ Check out these code samples:
 - [Composer and Packagist](https://github.com/arturomorarioja/php_packagist_faker)
 - PHPUnit:
   - [Sum](https://github.com/arturomorarioja/php_sum_unit_tests)
-  - [Length converter](https://github.com/arturomorarioja/php_length_converter_unit_tests)
-    
-[  - HTML 2 Markdown(https://github.com/arturomorarioja/php_markdown_to_html)]: #
+  - [Length converter](https://github.com/arturomorarioja/php_length_converter_unit_tests) 
+  - [HTML 2 Markdown](https://github.com/arturomorarioja/php_markdown_to_html)
+
 [- Films REST API(https://github.com/arturomorarioja/php_films_rest_api)]: #
 [- Mailer(https://github.com/arturomorarioja/php_mailer)]: #
 [- Sign up and log in with email validation(https://github.com/arturomorarioja/php_signup_login)]: #
 
-[### Exercises]: #
-[- Write better unit tests for the HTML 2 Markdown application so that they catch errors]: #
+### Exercises
+- Write better unit tests for the HTML 2 Markdown application so that they catch errors
+  
 [- Try deploying your own PHP applications. Find suitable hosting providers]: #
 [- Finish the First Mandatory Assignment(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1366218). Remember that next week you will have to present it to the class]: #
 
