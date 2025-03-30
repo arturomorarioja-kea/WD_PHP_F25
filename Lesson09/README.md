@@ -13,10 +13,11 @@
 [  --> Install FileZilla. Configure: info at amri.keadigital@gmail.com]: #
 
 [## Exercise solutions]: #
-[- First Mandatory Assignment]: #
+[- First Mandatory Assignment(https://github.com/arturomorarioja/php_company_employees)]: #
 [- Markdown to HTML Unit Tests(https://github.com/arturomorarioja/php_markdown_to_html_unit_tests)]: #
 
 [## Homework]: #
 [Check out these code samples:]: #
 [- Films REST API(https://github.com/arturomorarioja/php_films_rest_api)]: #
-[- Try deploying your own PHP applications. Find suitable hosting providers]: #
+[- Books - PHP & MongoDB(https://github.com/arturomorarioja/php_books_mongodb)]: #
+[Try deploying your own PHP applications. Find suitable hosting providers]: #
