@@ -2,15 +2,19 @@
 
 # Lesson 9 - 1 April
 
+[--> git pull https://github.com/arturomorarioja/php_company_employees]: #
+
 [--> 1 1MA presentations]: #
 [  --> Show my solution]: #
 
 [--> 2 MD2HTML unit tests solution]: #
 
 [--> 3 Deployment demo: http://keacompany.great-site.net/]: #
+[--> 3.1 Manual via FileZilla]: #
 [  --> https://www.infinityfree.com/ login with arturomorarioja@gmail.com]: #
 [  --> Show phpmyadmin, ftp credentials]: #
 [  --> Install FileZilla. Configure: info at amri.keadigital@gmail.com]: #
+[--> 3.2 CI/CD via GitHub Actions]: #
 
 [## Exercise solutions]: #
 [- First Mandatory Assignment(https://github.com/arturomorarioja/php_company_employees)]: #
