@@ -3,6 +3,7 @@
 # Lesson 9 - 1 April
 
 [--> git pull https://github.com/arturomorarioja/php_company_employees]: #
+[--> download The MVC pattern slides (pdf & pptx)]: #
 
 [--> 1 1MA presentations]: #
 [  --> Show my solution]: #
