@@ -2,9 +2,6 @@
 
 # Lesson 9 - 1 April
 
-[--> git pull https://github.com/arturomorarioja/php_company_employees]: #
-[--> download The MVC pattern slides (pdf & pptx)]: #
-
 [--> 1 1MA presentations]: #
 [  --> Show my solution]: #
 
@@ -19,8 +16,8 @@
 
 [--> 4 PHP & MongoDB]: #
 
-[## Exercise solutions]: #
-[- First Mandatory Assignment(https://github.com/arturomorarioja/php_company_employees)]: #
+## Exercise solutions
+- [First Mandatory Assignment](https://github.com/arturomorarioja/php_company_employees)
 [- Markdown to HTML Unit Tests(https://github.com/arturomorarioja/php_markdown_to_html_unit_tests)]: #
 
 [## Homework]: #
