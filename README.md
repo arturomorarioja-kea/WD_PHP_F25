@@ -12,4 +12,5 @@
 - [Lesson 6](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson06/README.md) (11 March): Apache Web Server. Writing APIs in PHP
 - [Lesson 7](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson07/README.md) (18 March): Sessions. Web App Security. cUrl
 - [Lesson 8](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson08/README.md) (25 March): Composer. PHPUnit. PHPMailer
-- [Lesson 9](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson09/README.md) (1 April)
+- [Lesson 9](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson09/README.md) (1 April): MongoDB. Pagination
+- [Lesson 10](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson10/README.md) (8 April)
