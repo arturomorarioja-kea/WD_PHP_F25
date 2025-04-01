@@ -9,6 +9,7 @@
 ## Homework
 Check out these code samples:
 - [Books - PHP & MongoDB](https://github.com/arturomorarioja/php_books_mongodb)
+
 Try deploying your own PHP applications. Find suitable hosting providers, also cloud providers
 Install the MongoDB extension and the driver. Find installation details in the PHP & MongoDB code sample: 
 - Make the PHP & MongoDB application work on your computers
