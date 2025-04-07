@@ -3,6 +3,7 @@
 # Lesson 10 - 8 April
 
 [--> 1MA presentations: Abdullah + Daniel Causevic]: #
+[--> download code/simple_mvc_sample.zip]: #
 
 [--> MVC]: #
 [--> 1. DB library_api.sql]: #
@@ -16,7 +17,7 @@
 [--> 9. App/Controllers/Home.php ]: #
 [--> 10. Core/Router.php dispatch() ]: #
 [--> 11. App/Controllers/Home.php pass parameters ]: #
-[-->  ]: #
+[--> 12. Core/Error ]: #
 [-->  ]: #
 
 [- Films REST API(https://github.com/arturomorarioja/php_films_rest_api)]: #
