@@ -2,8 +2,7 @@
 
 # Lesson 10 - 8 April
 
-[--> 1MA presentations: Abdullah + Daniel Causevic]: #
-[--> download code/simple_mvc_sample.zip]: #
+[MVC sample](https://github.com/arturomorarioja/php_library_mvc_sample)
 
 [--> MVC]: #
 [--> 0. Keith Casey's number sqrt example]: #
