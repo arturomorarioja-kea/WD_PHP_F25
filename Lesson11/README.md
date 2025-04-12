@@ -10,5 +10,6 @@
 [  --> Delete book]: #
 [  --> Show authors]: #
 [  --> Delete authors]: #
+[  --> Add authors]: #
 
 [- Films REST API(https://github.com/arturomorarioja/php_films_rest_api)]: #
