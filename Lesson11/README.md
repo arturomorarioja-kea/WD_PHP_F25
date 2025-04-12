@@ -8,5 +8,7 @@
 [  --> Implement view and controller for showing all books]: #
 [  --> Add book]: #
 [  --> Delete book]: #
+[  --> Show authors]: #
+[  --> Delete authors]: #
 
 [- Films REST API(https://github.com/arturomorarioja/php_films_rest_api)]: #
