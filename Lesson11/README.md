@@ -2,4 +2,11 @@
 
 # Lesson 11 - 22 April
 
+[--> MVC]: #
+[  --> Error.php -> substitute Exception by Throwable]: #
+[  --> Create Book model for getAll(). Explain static::]: #
+[  --> Implement view and controller for showing all books]: #
+[  --> Add book]: #
+[  --> Delete book]: #
+
 [- Films REST API(https://github.com/arturomorarioja/php_films_rest_api)]: #
