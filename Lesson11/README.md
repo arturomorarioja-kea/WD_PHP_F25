@@ -4,6 +4,7 @@
 
 [--> MVC]: #
 [  --> Error.php -> substitute Exception by Throwable]: #
+[  --> Core Model -> add execute()]: #
 [  --> Create Book model for getAll(). Explain static::]: #
 [  --> Implement view and controller for showing all books]: #
 [  --> Add book]: #
