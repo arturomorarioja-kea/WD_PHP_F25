@@ -11,5 +11,6 @@
 [  --> Show authors]: #
 [  --> Delete authors]: #
 [  --> Add authors]: #
+[  --> Copy-paste authors into publishers]: #
 
 [- Films REST API(https://github.com/arturomorarioja/php_films_rest_api)]: #
