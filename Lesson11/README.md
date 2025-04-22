@@ -18,6 +18,7 @@ Take a look at [Laravel](https://laravel.com/). Notice the following:
 - ...and many more utilities. Simply go to https://laravel.com/ and click on "Open Source"
 
 ![image](https://github.com/user-attachments/assets/f3c424ad-8534-4c4f-95ac-238af9b906e2)
+
 Source: [Laravel Usage Statistics 2024](https://www.glorywebs.com/blog/laravel-usage-statistics)
 
 Beyond PHP, Laravel has been the most popular back-end framework regardless of programming language from 2018 to 2024 (now surpassed only by Python Django): https://www.youtube.com/watch?v=-WrRlgj9lUg
