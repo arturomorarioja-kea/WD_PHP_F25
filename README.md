@@ -14,4 +14,4 @@
 - [Lesson 8](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson08/README.md) (25 March): Composer. PHPUnit. PHPMailer
 - [Lesson 9](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson09/README.md) (1 April): Deployment. MongoDB. Pagination
 - [Lesson 10](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson10/README.md) (8 April): The MVC Pattern. Namespaces. Routing
-- [Lesson 11](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson11/README.md) (22 April)
+- [Lesson 11](https://github.com/arturomorarioja-kea/WD_PHP_F25/blob/main/Lesson11/README.md) (22 April): The MVC Pattern. Laravel
