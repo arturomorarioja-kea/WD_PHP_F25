@@ -1,0 +1,113 @@
+{
+    "albums": [
+        {
+            "artist": "Pat Metheny Group",
+            "title": "Quartet",
+            "year": "1996",
+            "musicians": [
+                {
+                    "name": "Pat Metheny",
+                    "instruments": [
+                        "electric guitar", "acoustic guitar", "guitar synthesizer", "12-string guitar", "slide guitar", "Pikasso guitar"
+                    ]
+                },
+                {
+                    "name": "Lyle Mays",
+                    "instruments": [
+                        "piano", "keyboards", "organ", "clavichord", "celeste", "autoharp"
+                    ]
+                }, 
+                {
+                    "name": "Steve Rodby",
+                    "instruments": [
+                        "acoustic bass", "piccolo bass"
+                    ]
+                },
+                {
+                    "name": "Paul Wertico",
+                    "instruments": [
+                        "drums", "percussion"
+                    ]
+                }                
+            ]
+        },
+        {
+            "artist": "Sepultura",
+            "title": "Chaos A.D.",
+            "year": "1993",
+            "musicians": [
+                {
+                    "name": "Max Cavalera",
+                    "instruments": [
+                        "vocals", "electric guitar", "4-string guitar", "nylon string guitar"
+                    ]
+                },
+                {
+                    "name": "Igor Cavalera",
+                    "instruments": [
+                        "drums", "percussion"
+                    ]
+                },
+                {
+                    "name": "Paulo Jr.",
+                    "instruments": [
+                        "electric bass"
+                    ]
+                },
+                {
+                    "name": "Andreas Kisser",
+                    "instruments": [
+                        "electric guitar", "12-string viola", "stee-string acoustic guitar"
+                    ]
+                }
+            ]
+        },
+        {
+            "artist": "Yellowjackets",
+            "title": "Dreamland",
+            "year": "1995",
+            "musicians": [
+                {
+                    "name": "Russell Ferrante",
+                    "instruments": [
+                        "piano", "keyboards"
+                    ]
+                },
+                {
+                    "name": "Jimmy Haslip",
+                    "instruments": [ "electric bass" ]
+                },
+                {
+                    "name": "William Kennedy",
+                    "instruments": [ "drums" ]
+                },
+                {
+                    "name": "Bob Mintzer",
+                    "instruments": [
+                        "tenor saxophone", "bass clarinet", "Bb clarinet"
+                    ]
+                },
+                {
+                    "name": "John Lehmkuhl",
+                    "instruments": [ "additional programming" ]
+                },
+                {
+                    "name": "Luis Conte",
+                    "instruments": [ "percussion" ]
+                },
+                {
+                    "name": "Bobby McFerrin",
+                    "instruments": [
+                        "vocals", "percussion"
+                    ]
+                },
+                {
+                    "name": "Chuck Findley",
+                    "instruments": [
+                        "trumpet", "trombone"
+                    ]
+                }
+            ]
+        }
+    ]
+}
