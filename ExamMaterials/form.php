@@ -13,11 +13,11 @@
         <form action="form.php" method="">
             <div>
                 <label for="txtName">Name</label>
-                <input type="text" id="txtName">
+                <input type="text" id="txtName" name="name">
             </div>
             <div>
                 <label for="txtEmail">Email</label>
-                <input type="email" id="txtEmail">
+                <input type="email" id="txtEmail" name="email">
             </div>
             <div>
                 <button type="submit">Submit form</button>
